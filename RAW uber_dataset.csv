@@ -1,0 +1,1011 @@
+CATEGORY,START,STOP,MILES,PURPOSE,DRIVER_RATING,FARE_AMOUNT,PASSENGER_COUNT,PAYMENT_METHOD,CAR_TYPE,TRIP_TYPE,TRIP_DATE,YEAR,MONTH_NAME,DAY_OF_WEEK_NAME,DAY_OF_MONTH
+Business,Ramirezborough,Ramirezborough,19.97,Meeting,5.2,14.87,2,Uber Credit,SUV,Round-Trip,2022-06-01,2022,June,Wednesday,1
+Business,New Caseyburgh,New Caseyburgh,13.62,Errand/Supplies,5.0,22.83,4,Uber Credit,Premium,Round-Trip,2022-11-09,2022,November,Wednesday,9
+Personal,Hannahside,West Mercedes,21.48,Commute,4.5,13.11,2,Card,SUV,One-Way,2024-07-17,2024,July,Wednesday,17
+Business,Trevinofurt,Trevinofurt,30.23,Meeting,4.2,20.38,2,Cash,Economy,Round-Trip,2021-09-17,2021,September,Friday,17
+Business,Christopherberg,Christopherberg,12.66,,4.8,3.4,1,Cash,SUV,Round-Trip,2021-07-22,2021,July,Thursday,22
+Business,Jeffreychester,Jeffreychester,12.66,Meal/Entertain,,28.2,3,Uber Credit,Premium,Round-Trip,2021-03-08,2021,March,Monday,8
+Business,Villarrealhaven,Villarrealhaven,30.79,Errand/Supplies,4.9,25.02,3,Uber Credit,SUV,Round-Trip,2021-01-17,2021,January,Sunday,17
+Business,East Miaberg,East Miaberg,22.67,Errand/Supplies,4.8,12.74,2,Uber Credit,Economy,Round-Trip,2024-01-17,2024,January,Wednesday,17
+Personal,Watkinston,Watkinston,10.31,Commute,5.0,34.89,1,Cash,Premium,Round-Trip,2024-12-23,2024,December,Monday,23
+Business,Juanville,Pricebury,20.43,Errand/Supplies,4.2,39.06,4,Cash,Economy,One-Way,2021-11-14,2021,November,Sunday,14
+Business,South Heatherland,North Jillburgh,10.37,,5.2,0.89,3,Cash,SUV,One-Way,2020-08-12,2020,August,Wednesday,12
+Business,Moniquechester,North Thomas,10.34,Commute,4.6,13.56,2,Uber Credit,SUV,One-Way,2024-10-17,2024,October,Thursday,17
+Business,Williammouth,Williammouth,17.42,Errand/Supplies,5.5,13.46,3,Uber Credit,Economy,Round-Trip,2022-01-05,2022,January,Wednesday,5
+Business,East Johnchester,,-4.13,Commute,4.2,10.9,3,Cash,Premium,Unknown,2022-06-11,2022,June,Saturday,11
+Business,Farmermouth,Farmermouth,-2.25,Errand/Supplies,5.4,37.44,4,Uber Credit,Economy,Round-Trip,2021-08-21,2021,August,Saturday,21
+Business,Emilyport,Emilyport,9.38,Errand/Supplies,4.6,22.09,1,Cash,Premium,Round-Trip,2021-05-29,2021,May,Saturday,29
+Personal,Ryanhaven,Ryanhaven,4.87,Meal/Entertain,4.2,21.03,4,Cash,Premium,Round-Trip,2021-10-24,2021,October,Sunday,24
+Business,Priceshire,Priceshire,18.14,Errand/Supplies,4.3,5.06,1,Cash,Premium,Round-Trip,2023-12-07,2023,December,Thursday,7
+Personal,Jamesstad,Jamesstad,5.92,Commute,4.3,34.53,3,Card,Economy,Round-Trip,2021-12-05,2021,December,Sunday,5
+Personal,Port Gilbertchester,Port Gilbertchester,0.88,Meeting,4.7,6.41,2,Card,Premium,Round-Trip,2021-12-17,2021,December,Friday,17
+Business,East Phillip,Kevinton,29.66,Meal/Entertain,4.8,25.9,4,Uber Credit,Economy,One-Way,2020-06-18,2020,June,Thursday,18
+Business,East Paulchester,East Paulchester,12.74,Errand/Supplies,4.2,29.16,1,Card,Economy,Round-Trip,2021-10-01,2021,October,Friday,1
+Personal,South Sarahtown,,15.68,Errand/Supplies,4.5,45.41,3,Cash,Economy,Unknown,2020-12-28,2020,December,Monday,28
+Personal,Kristiebury,Kristiebury,0.75,Commute,5.6,5.37,1,Uber Credit,SUV,Round-Trip,2020-01-15,2020,January,Wednesday,15
+Personal,North Ashley,North Ashley,9.56,Meal/Entertain,5.4,20.29,1,Cash,SUV,Round-Trip,2023-06-04,2023,June,Sunday,4
+Business,Markmouth,Markmouth,16.11,Errand/Supplies,4.7,277.6,1,Cash,SUV,Round-Trip,2024-05-26,2024,May,Sunday,26
+Business,South Pamelabury,South Pamelabury,3.49,Meeting,4.5,52.01,3,Uber Credit,Premium,Round-Trip,2022-04-21,2022,April,Thursday,21
+Personal,New Carlos,New Carlos,18.76,Meeting,4.6,43.58,2,Cash,SUV,Round-Trip,2023-04-02,2023,April,Sunday,2
+Business,Riveraberg,Riveraberg,8.99,Errand/Supplies,4.8,28.14,2,Card,SUV,Round-Trip,2025-01-26,2025,January,Sunday,26
+Business,Michaelville,Schneiderburgh,12.08,,4.0,17.63,2,Uber Credit,SUV,One-Way,2023-02-06,2023,February,Monday,6
+Personal,Port Juliemouth,Port Juliemouth,8.98,Meal/Entertain,4.4,37.11,1,Card,Premium,Round-Trip,2021-08-18,2021,August,Wednesday,18
+Business,Kimberlychester,Kimberlychester,33.52,Errand/Supplies,,10.4,3,Card,Economy,Round-Trip,2020-12-07,2020,December,Monday,7
+Personal,Port Jacobbury,Port Jacobbury,14.87,Commute,4.7,32.15,1,Uber Credit,SUV,Round-Trip,2020-09-05,2020,September,Saturday,5
+Personal,Dorseystad,Dorseystad,4.42,Meal/Entertain,,32.58,2,Cash,Economy,Round-Trip,2021-12-06,2021,December,Monday,6
+Personal,Jenniferbury,Jenniferbury,23.23,Meeting,4.3,40.9,2,Card,Economy,Round-Trip,2024-05-13,2024,May,Monday,13
+Business,North Tarabury,North Tarabury,2.79,Errand/Supplies,5.3,66.39,3,Card,Economy,Round-Trip,2024-11-27,2024,November,Wednesday,27
+Personal,North Lindaview,North Lindaview,17.09,Meal/Entertain,3.9,30.89,1,Card,Economy,Round-Trip,2024-08-02,2024,August,Friday,2
+Business,South Amber,East Brianville,-4.6,Meeting,3.8,17.37,4,Uber Credit,SUV,One-Way,2020-04-13,2020,April,Monday,13
+Personal,Waltonfort,Waltonfort,1.72,Errand/Supplies,4.6,24.62,4,Cash,Premium,Round-Trip,2021-11-05,2021,November,Friday,5
+Business,Josephport,Josephport,16.97,Customer Visit,5.0,1.54,2,Cash,SUV,Round-Trip,2020-06-15,2020,June,Monday,15
+Personal,Warrenmouth,Brocktown,22.38,Commute,5.3,14.58,3,Uber Credit,Premium,One-Way,2021-12-02,2021,December,Thursday,2
+Personal,New Catherinemouth,New Anthony,16.71,Meeting,4.3,18.86,1,Uber Credit,SUV,One-Way,2021-09-14,2021,September,Tuesday,14
+Business,South Micheal,Kingmouth,13.84,Meeting,5.0,17.14,1,Cash,SUV,One-Way,2020-09-29,2020,September,Tuesday,29
+Business,Port Stephanie,Port Stephanie,11.99,Customer Visit,4.5,27.29,2,Uber Credit,Economy,Round-Trip,2022-03-05,2022,March,Saturday,5
+Business,Port Claudia,Port Claudia,0.21,Customer Visit,4.4,12.66,2,Uber Credit,Premium,Round-Trip,2021-12-19,2021,December,Sunday,19
+Business,East Ianhaven,East Ianhaven,7.8,Meal/Entertain,4.9,41.82,1,Uber Credit,SUV,Round-Trip,2021-06-21,2021,June,Monday,21
+Personal,Barronborough,Barronborough,10.39,Commute,4.8,25.0,1,Cash,Premium,Round-Trip,2023-06-27,2023,June,Tuesday,27
+Business,Watkinston,Andrewchester,25.57,Commute,3.7,24.86,2,Cash,Premium,One-Way,2023-06-12,2023,June,Monday,12
+Business,Lake David,Lake David,18.44,Meeting,5.2,20.08,1,Card,SUV,Round-Trip,2023-05-14,2023,May,Sunday,14
+Business,West Briannabury,West Briannabury,-2.63,Customer Visit,,27.33,4,Cash,Premium,Round-Trip,2021-12-13,2021,December,Monday,13
+Personal,South Makaylatown,South Makaylatown,18.24,Commute,4.2,37.38,2,Cash,SUV,Round-Trip,2020-07-23,2020,July,Thursday,23
+Personal,East Russell,East Russell,11.15,Errand/Supplies,4.7,11.99,1,Card,SUV,Round-Trip,2024-03-02,2024,March,Saturday,2
+Personal,Cassandramouth,New Eric,8.23,Commute,4.7,15.13,2,Card,Economy,One-Way,2024-07-07,2024,July,Sunday,7
+Personal,Calhounfurt,Calhounfurt,21.12,Meeting,4.6,20.44,3,Cash,Economy,Round-Trip,2022-01-17,2022,January,Monday,17
+Business,Lake Paulville,Clarkview,25.31,Commute,4.2,4.81,2,Uber Credit,Premium,One-Way,2023-05-23,2023,May,Tuesday,23
+Personal,Carrieville,West Daniel,24.31,Meal/Entertain,4.2,12.71,2,Card,Economy,One-Way,2022-03-24,2022,March,Thursday,24
+Personal,Nathanielhaven,Nathanielhaven,6.61,Customer Visit,4.5,17.86,3,Cash,Premium,Round-Trip,2022-03-31,2022,March,Thursday,31
+Business,Brittanyview,Brittanyview,11.91,Meeting,5.1,38.12,4,Cash,SUV,Round-Trip,2022-05-25,2022,May,Wednesday,25
+Personal,Hillchester,Hillchester,18.31,Meeting,4.8,28.94,1,Card,Economy,Round-Trip,2021-09-29,2021,September,Wednesday,29
+Business,Lake Carolhaven,Lake Carolhaven,24.76,Customer Visit,4.3,27.9,3,Uber Credit,SUV,Round-Trip,2020-08-12,2020,August,Wednesday,12
+Business,Nunezshire,,10.21,Customer Visit,4.9,37.76,2,Uber Credit,Economy,Unknown,2024-04-19,2024,April,Friday,19
+Business,Lindsayside,Lindsayside,13.14,Customer Visit,3.1,22.94,1,Cash,Economy,Round-Trip,2020-04-22,2020,April,Wednesday,22
+Business,Jessicachester,Jessicachester,3.94,Meeting,5.1,30.86,3,Card,Economy,Round-Trip,2022-01-08,2022,January,Saturday,8
+Personal,West Marymouth,West Marymouth,3.04,Customer Visit,3.6,23.45,1,Card,SUV,Round-Trip,2021-07-01,2021,July,Thursday,1
+Personal,New Tony,Cordovaport,23.13,Customer Visit,,28.98,1,Card,Premium,One-Way,2023-11-21,2023,November,Tuesday,21
+Personal,Simsburgh,Simsburgh,28.56,Meeting,3.9,16.26,3,Uber Credit,Economy,Round-Trip,2022-09-28,2022,September,Wednesday,28
+Business,East Jonathanberg,East Jonathanberg,14.28,Meeting,3.9,11.58,1,Uber Credit,SUV,Round-Trip,2021-01-10,2021,January,Sunday,10
+Personal,Julieport,Julieport,25.04,Meal/Entertain,5.1,22.99,4,Uber Credit,Premium,Round-Trip,2023-02-21,2023,February,Tuesday,21
+Business,West Spencerburgh,West Spencerburgh,186.2,Commute,4.3,46.34,3,Card,Premium,Round-Trip,2022-05-08,2022,May,Sunday,8
+Business,Lake Caitlin,Lake Caitlin,8.55,Errand/Supplies,4.7,38.89,4,Cash,Economy,Round-Trip,2020-09-13,2020,September,Sunday,13
+Business,Holmesside,South Bethany,18.61,Meeting,4.5,39.48,2,Uber Credit,SUV,One-Way,2024-05-12,2024,May,Sunday,12
+Personal,North Williamfurt,Jessicaborough,30.38,,4.7,43.54,1,Card,SUV,One-Way,2020-05-14,2020,May,Thursday,14
+Personal,Roweland,Roweland,14.64,Meal/Entertain,4.5,26.33,2,Card,Premium,Round-Trip,2024-05-07,2024,May,Tuesday,7
+Personal,Janetport,Janetport,30.65,Commute,3.9,27.96,2,Cash,SUV,Round-Trip,2021-04-26,2021,April,Monday,26
+Business,West Jennifermouth,West Jennifermouth,-11.2,Commute,5.0,15.74,1,Cash,Premium,Round-Trip,2020-06-14,2020,June,Sunday,14
+Business,New Alexander,North Christian,23.22,Commute,4.3,20.26,3,Card,Premium,One-Way,2022-05-04,2022,May,Wednesday,4
+Personal,Seanburgh,West Tyler,15.87,Meal/Entertain,3.7,34.24,1,Cash,Premium,One-Way,2023-09-10,2023,September,Sunday,10
+Business,Chaseport,Dillonborough,12.01,Customer Visit,4.3,43.06,2,Uber Credit,Economy,One-Way,2023-11-03,2023,November,Friday,3
+Personal,Mirandaland,Port Jasonland,15.92,Commute,5.3,229.1,2,Card,SUV,One-Way,2024-06-17,2024,June,Monday,17
+Personal,Mendozabury,Mendozabury,-4.88,Commute,4.9,18.25,3,Uber Credit,Economy,Round-Trip,2022-03-03,2022,March,Thursday,3
+Personal,Colemanport,Colemanport,12.8,Meal/Entertain,4.3,25.01,1,Card,Premium,Round-Trip,2023-06-21,2023,June,Wednesday,21
+Business,Maryfurt,Maryfurt,18.57,Customer Visit,4.3,34.02,2,Uber Credit,SUV,Round-Trip,2022-04-18,2022,April,Monday,18
+Personal,Juliabury,Juliabury,29.78,Commute,,3.34,4,Cash,SUV,Round-Trip,2021-08-14,2021,August,Saturday,14
+Business,North Scott,North Scott,9.82,Commute,5.5,9.44,2,Cash,Premium,Round-Trip,2021-07-11,2021,July,Sunday,11
+Business,Lake Danielleport,Lake Danielleport,6.92,Customer Visit,4.7,16.74,2,Uber Credit,SUV,Round-Trip,2021-11-27,2021,November,Saturday,27
+Personal,North Dustin,North Dustin,9.98,Meeting,4.7,6.69,3,Card,Premium,Round-Trip,2021-05-09,2021,May,Sunday,9
+Personal,North Zachary,Farmermouth,24.15,Meeting,5.0,17.38,4,Card,Premium,One-Way,2023-10-25,2023,October,Wednesday,25
+Personal,West James,West James,18.29,Commute,4.6,22.78,2,Uber Credit,Premium,Round-Trip,2024-06-09,2024,June,Sunday,9
+Personal,Tiffanychester,Tiffanychester,9.7,Errand/Supplies,4.4,18.2,2,Uber Credit,Premium,Round-Trip,2021-07-17,2021,July,Saturday,17
+Business,East Robertbury,East Robertbury,20.13,Customer Visit,4.4,46.79,4,Cash,SUV,Round-Trip,2024-01-28,2024,January,Sunday,28
+Business,Adamton,East Dawnbury,15.97,Customer Visit,4.5,29.9,1,Cash,Economy,One-Way,2024-12-01,2024,December,Sunday,1
+Personal,New Samuel,New Samuel,24.69,Errand/Supplies,4.5,29.51,1,Uber Credit,SUV,Round-Trip,2022-02-19,2022,February,Saturday,19
+Business,North Audreyside,East Jessicaland,7.98,Customer Visit,4.9,34.33,2,Uber Credit,Economy,One-Way,2022-01-08,2022,January,Saturday,8
+Business,Fisherfort,,11.72,Meal/Entertain,4.5,7.92,2,Card,SUV,Unknown,2020-05-20,2020,May,Wednesday,20
+Business,Amandamouth,Amandamouth,11.08,Customer Visit,4.9,40.59,1,Card,Premium,Round-Trip,2024-01-14,2024,January,Sunday,14
+Business,New Emilymouth,New Emilymouth,0.36,Customer Visit,4.5,23.86,3,Uber Credit,SUV,Round-Trip,2022-07-02,2022,July,Saturday,2
+Business,South Craigchester,South Craigchester,179.60000000000002,Customer Visit,4.5,35.06,4,Card,SUV,Round-Trip,2020-01-15,2020,January,Wednesday,15
+Personal,Kellyhaven,Kellyhaven,17.61,Meeting,3.5,8.92,4,Cash,SUV,Round-Trip,2020-09-15,2020,September,Tuesday,15
+Business,North Kristina,North Kristina,15.05,Meal/Entertain,5.0,1.69,3,Card,Premium,Round-Trip,2020-09-26,2020,September,Saturday,26
+Personal,New Lauren,New Lauren,126.5,Customer Visit,4.7,37.27,3,Uber Credit,Economy,Round-Trip,2020-11-12,2020,November,Thursday,12
+Personal,Kennethhaven,Kennethhaven,0.85,Meal/Entertain,5.0,30.65,3,Cash,SUV,Round-Trip,2020-09-04,2020,September,Friday,4
+Personal,Willisview,Willisview,10.79,,3.1,114.7,3,Cash,Premium,Round-Trip,2024-04-30,2024,April,Tuesday,30
+Personal,Port Kristi,Markmouth,11.57,Meal/Entertain,5.5,11.96,3,Cash,Economy,One-Way,2021-08-29,2021,August,Sunday,29
+Business,North Deborah,North Deborah,6.98,Errand/Supplies,,41.88,3,Card,Premium,Round-Trip,2024-12-27,2024,December,Friday,27
+Business,West Roberthaven,West Roberthaven,13.39,Customer Visit,5.1,7.16,4,Card,Economy,Round-Trip,2022-09-15,2022,September,Thursday,15
+Personal,South Dennis,South Dennis,19.04,Meeting,4.0,49.64,3,Cash,Premium,Round-Trip,2021-09-04,2021,September,Saturday,4
+Personal,Johnchester,Johnchester,33.86,Meeting,4.8,11.49,1,Cash,Premium,Round-Trip,2020-09-25,2020,September,Friday,25
+Business,Gonzalezhaven,Gonzalezhaven,16.75,Meeting,4.0,34.58,3,Card,Premium,Round-Trip,2025-01-06,2025,January,Monday,6
+Personal,Aprilville,Aprilville,17.58,Meeting,4.2,20.07,3,Card,Premium,Round-Trip,2022-12-10,2022,December,Saturday,10
+Personal,Robinsonmouth,Robinsonmouth,14.26,Customer Visit,5.5,34.05,4,Cash,Premium,Round-Trip,2020-02-22,2020,February,Saturday,22
+Business,Moralesport,Rhondaton,-4.19,Meeting,4.4,16.84,4,Card,SUV,One-Way,2024-09-13,2024,September,Friday,13
+Personal,Warrenmouth,Warrenmouth,14.73,Meal/Entertain,4.6,22.56,3,Card,SUV,Round-Trip,2023-05-13,2023,May,Saturday,13
+Business,North Amberborough,North Amberborough,15.6,Errand/Supplies,4.9,25.61,4,Card,Economy,Round-Trip,2020-05-30,2020,May,Saturday,30
+Personal,Alexanderside,Michaelfort,39.63,Commute,4.7,9.97,2,Card,SUV,One-Way,2021-05-21,2021,May,Friday,21
+Business,East Jimmyton,East Jimmyton,13.08,Meeting,,36.11,4,Uber Credit,Premium,Round-Trip,2021-11-01,2021,November,Monday,1
+Business,Davenportmouth,Davenportmouth,18.02,Commute,4.7,17.3,4,Uber Credit,Premium,Round-Trip,2020-10-15,2020,October,Thursday,15
+Personal,Lake Alexischester,Lake Alexischester,14.65,Commute,5.7,21.57,4,Uber Credit,SUV,Round-Trip,2023-08-04,2023,August,Friday,4
+Business,Lake Caitlin,East Richard,3.31,Commute,4.5,10.08,4,Cash,Economy,One-Way,2023-03-27,2023,March,Monday,27
+Business,North Dawntown,South Staceyville,264.3,Meal/Entertain,4.6,13.44,1,Card,Economy,One-Way,2021-06-11,2021,June,Friday,11
+Personal,Port Dannybury,Robertstad,22.52,Meeting,5.0,22.13,1,Uber Credit,Economy,One-Way,2025-01-21,2025,January,Tuesday,21
+Business,Michaelland,Michaelland,22.91,Customer Visit,5.1,61.19,1,Card,SUV,Round-Trip,2025-01-27,2025,January,Monday,27
+Business,Meganstad,Meganstad,5.91,Meal/Entertain,5.1,36.77,3,Uber Credit,Premium,Round-Trip,2021-09-16,2021,September,Thursday,16
+Personal,Lake Ericamouth,Lake Ericamouth,29.03,Customer Visit,4.8,24.71,3,Cash,Economy,Round-Trip,2023-04-28,2023,April,Friday,28
+Personal,New Jaredfort,New Jaredfort,9.8,Meeting,3.9,21.06,2,Cash,Economy,Round-Trip,2024-07-14,2024,July,Sunday,14
+Business,Jacobview,,20.87,Meal/Entertain,5.3,25.34,1,Uber Credit,Economy,Unknown,2024-12-27,2024,December,Friday,27
+Business,Port Kimberly,Port Kimberly,36.9,Commute,3.9,33.21,3,Cash,Premium,Round-Trip,2023-12-08,2023,December,Friday,8
+Personal,South Moniquemouth,South Moniquemouth,5.09,Meal/Entertain,4.7,7.29,4,Card,Premium,Round-Trip,2020-07-30,2020,July,Thursday,30
+Personal,New Barbara,New Barbara,9.34,Meal/Entertain,4.1,41.71,4,Card,Economy,Round-Trip,2020-12-22,2020,December,Tuesday,22
+Business,East Christopher,East Christopher,16.0,Meeting,4.5,35.73,1,Cash,Premium,Round-Trip,2024-01-03,2024,January,Wednesday,3
+Business,North Markborough,North Markborough,9.97,Commute,4.7,357.70000000000005,2,Card,Economy,Round-Trip,2022-02-07,2022,February,Monday,7
+Business,Port Kristi,Port Kristi,-0.51,Commute,4.7,31.58,2,Uber Credit,SUV,Round-Trip,2025-03-17,2025,March,Monday,17
+Business,Royville,Royville,15.69,Errand/Supplies,4.7,25.29,4,Uber Credit,Economy,Round-Trip,2021-12-22,2021,December,Wednesday,22
+Business,Ericshire,Ericshire,4.38,,5.3,35.09,2,Uber Credit,SUV,Round-Trip,2025-02-15,2025,February,Saturday,15
+Personal,Mortonberg,Mortonberg,19.74,Customer Visit,4.7,33.88,1,Card,Premium,Round-Trip,2024-01-21,2024,January,Sunday,21
+Business,Lake Ashley,Lake Ashley,5.81,Errand/Supplies,4.4,19.69,4,Uber Credit,Economy,Round-Trip,2021-05-24,2021,May,Monday,24
+Business,Pricechester,Pricechester,30.5,Meeting,5.0,16.4,3,Cash,Premium,Round-Trip,2022-01-21,2022,January,Friday,21
+Business,Natalieland,Natalieland,7.17,Meal/Entertain,5.1,26.53,3,Uber Credit,Economy,Round-Trip,2023-11-12,2023,November,Sunday,12
+Personal,West Carol,West Carol,11.78,,3.9,48.24,2,Card,SUV,Round-Trip,2022-01-29,2022,January,Saturday,29
+Business,South Brianberg,East Joshua,23.14,,4.8,6.41,4,Card,Premium,One-Way,2022-10-24,2022,October,Monday,24
+Personal,West Candiceberg,West Candiceberg,2.69,Meeting,4.9,2.99,4,Uber Credit,Premium,Round-Trip,2025-03-18,2025,March,Tuesday,18
+Personal,North Jacqueline,North Jacqueline,17.27,Meal/Entertain,4.4,27.47,3,Cash,Economy,Round-Trip,2021-02-23,2021,February,Tuesday,23
+Business,Vegaburgh,Vegaburgh,28.07,Commute,5.2,25.76,4,Cash,Premium,Round-Trip,2023-09-03,2023,September,Sunday,3
+Business,Owenburgh,Owenburgh,-1.07,Errand/Supplies,4.4,27.6,4,Cash,SUV,Round-Trip,2022-08-13,2022,August,Saturday,13
+Personal,North Crystalside,North Crystalside,16.85,Customer Visit,4.6,28.66,4,Card,SUV,Round-Trip,2023-12-23,2023,December,Saturday,23
+Personal,Robertston,Robertston,17.6,Commute,4.4,21.65,2,Cash,Economy,Round-Trip,2021-03-28,2021,March,Sunday,28
+Personal,West Philipstad,West Philipstad,22.82,Commute,4.5,47.35,4,Card,Economy,Round-Trip,2020-06-21,2020,June,Sunday,21
+Personal,Rebeccashire,North Danielport,2.63,Commute,4.0,0.99,1,Uber Credit,Premium,One-Way,2022-02-05,2022,February,Saturday,5
+Personal,New Jeremiahberg,New Jeremiahberg,1.8,Commute,3.8,12.57,2,Uber Credit,SUV,Round-Trip,2024-05-28,2024,May,Tuesday,28
+Business,Evansview,Evansview,20.22,Meeting,5.3,23.45,4,Card,Premium,Round-Trip,2024-09-23,2024,September,Monday,23
+Business,Garciaburgh,Garciaburgh,17.97,Commute,4.1,0.35,4,Card,SUV,Round-Trip,2024-07-12,2024,July,Friday,12
+Business,South Vickie,South Vickie,17.5,Meal/Entertain,4.0,22.36,1,Uber Credit,SUV,Round-Trip,2021-09-26,2021,September,Sunday,26
+Business,New Anthonyfurt,New Anthonyfurt,18.46,Meeting,3.4,49.92,2,Uber Credit,Economy,Round-Trip,2021-02-26,2021,February,Friday,26
+Personal,Paulshire,Paulshire,8.2,Errand/Supplies,4.2,25.31,3,Card,Premium,Round-Trip,2020-04-28,2020,April,Tuesday,28
+Business,Marshallland,Marshallland,17.32,Meal/Entertain,3.8,28.46,3,Uber Credit,SUV,Round-Trip,2020-07-12,2020,July,Sunday,12
+Business,East Shirley,East Shirley,17.93,Meal/Entertain,5.3,6.1,2,Uber Credit,Economy,Round-Trip,2020-06-05,2020,June,Friday,5
+Business,North Melissaton,North Melissaton,7.86,,5.0,15.75,4,Cash,SUV,Round-Trip,2023-03-05,2023,March,Sunday,5
+Business,Lake Christopherport,Proctorport,33.66,Meal/Entertain,4.2,19.37,4,Cash,Economy,One-Way,2020-03-08,2020,March,Sunday,8
+Business,Alyssaport,Alyssaport,19.74,Meeting,5.6,20.23,3,Uber Credit,Economy,Round-Trip,2024-05-20,2024,May,Monday,20
+Business,Lake Patricia,,3.09,Errand/Supplies,5.0,44.22,3,Uber Credit,Economy,Unknown,2023-03-05,2023,March,Sunday,5
+Business,New Dawnmouth,,21.57,Errand/Supplies,4.3,33.37,3,Cash,Premium,Unknown,2021-05-17,2021,May,Monday,17
+Business,Marshallland,Marshallland,5.25,Commute,3.3,8.33,1,Uber Credit,Economy,Round-Trip,2021-11-26,2021,November,Friday,26
+Business,Bowmanberg,Bowmanberg,22.87,Customer Visit,5.6,287.0,3,Card,Economy,Round-Trip,2020-09-20,2020,September,Sunday,20
+Personal,Nathanfort,Nathanfort,26.59,Meeting,3.8,32.47,1,Uber Credit,SUV,Round-Trip,2020-09-26,2020,September,Saturday,26
+Business,East Shannon,,6.79,Errand/Supplies,3.7,42.1,2,Uber Credit,Economy,Unknown,2020-11-01,2020,November,Sunday,1
+Business,Port Rachelville,Port Rachelville,24.63,Meeting,5.0,48.71,4,Card,SUV,Round-Trip,2022-08-28,2022,August,Sunday,28
+Personal,South Makaylatown,South Makaylatown,19.13,Meeting,5.7,9.77,3,Cash,SUV,Round-Trip,2024-11-24,2024,November,Sunday,24
+Personal,Gordonfurt,Port Adamtown,23.22,Commute,5.2,12.84,4,Uber Credit,Premium,One-Way,2020-07-10,2020,July,Friday,10
+Business,Irwinshire,Irwinshire,33.97,Errand/Supplies,4.8,6.14,4,Cash,Economy,Round-Trip,2021-06-28,2021,June,Monday,28
+Business,South Melinda,South Melinda,12.55,Customer Visit,4.8,21.49,3,Cash,Economy,Round-Trip,2024-02-25,2024,February,Sunday,25
+Personal,Saramouth,West Kevinville,7.46,Customer Visit,4.9,32.0,3,Uber Credit,SUV,One-Way,2023-09-20,2023,September,Wednesday,20
+Business,Jenkinsview,Lake Michaelshire,6.1,Customer Visit,4.9,39.81,2,Uber Credit,Premium,One-Way,2024-10-07,2024,October,Monday,7
+Personal,Loriberg,Loriberg,6.84,Meal/Entertain,4.6,23.86,1,Cash,Economy,Round-Trip,2021-10-18,2021,October,Monday,18
+Personal,Codyburgh,Codyburgh,14.23,Errand/Supplies,4.6,20.2,1,Uber Credit,Premium,Round-Trip,2022-09-13,2022,September,Tuesday,13
+Business,Georgemouth,East Jonathanberg,18.41,Meal/Entertain,4.5,27.28,4,Uber Credit,SUV,One-Way,2020-03-11,2020,March,Wednesday,11
+Business,Davidchester,Davidchester,17.77,Meal/Entertain,4.1,12.47,3,Cash,Economy,Round-Trip,2021-01-26,2021,January,Tuesday,26
+Business,East Maria,East Maria,23.27,Meal/Entertain,4.4,56.34,2,Cash,Premium,Round-Trip,2020-08-15,2020,August,Saturday,15
+Personal,North Andrewville,,15.13,Commute,3.7,0.89,2,Card,Economy,Unknown,2020-09-26,2020,September,Saturday,26
+Personal,Nathanielhaven,North Saratown,29.54,Commute,4.5,27.77,2,Uber Credit,Economy,One-Way,2020-09-28,2020,September,Monday,28
+Personal,Novakland,Novakland,12.35,Meeting,4.0,55.35,2,Card,Premium,Round-Trip,2025-03-15,2025,March,Saturday,15
+Personal,North Jasonview,North Jasonview,42.2,Meeting,3.9,25.1,2,Cash,Economy,Round-Trip,2024-03-26,2024,March,Tuesday,26
+Personal,Evansview,Fisherfort,21.26,Errand/Supplies,4.6,22.15,1,Uber Credit,SUV,One-Way,2021-03-25,2021,March,Thursday,25
+Business,Port Heidi,Port Heidi,6.43,Errand/Supplies,5.2,19.64,1,Cash,Economy,Round-Trip,2022-04-17,2022,April,Sunday,17
+Business,Hillchester,Hillchester,4.29,Commute,5.0,22.29,1,Uber Credit,Economy,Round-Trip,2024-11-21,2024,November,Thursday,21
+Business,West Mercedes,,19.82,Meeting,3.7,45.59,3,Uber Credit,Premium,Unknown,2023-08-29,2023,August,Tuesday,29
+Personal,Jacquelineport,Jacquelineport,12.77,Meeting,4.0,8.18,4,Card,Premium,Round-Trip,2023-12-23,2023,December,Saturday,23
+Personal,Joshuamouth,Joshuamouth,22.14,Meal/Entertain,5.0,48.0,2,Cash,Premium,Round-Trip,2023-11-24,2023,November,Friday,24
+Business,Rayport,Rayport,19.73,Customer Visit,,3.64,3,Uber Credit,Economy,Round-Trip,2023-04-19,2023,April,Wednesday,19
+Business,Mooreside,Mooreside,14.27,Customer Visit,4.4,21.0,2,Card,Premium,Round-Trip,2024-01-29,2024,January,Monday,29
+Business,North Annaborough,North Annaborough,6.53,Customer Visit,4.8,18.56,1,Cash,Economy,Round-Trip,2023-06-20,2023,June,Tuesday,20
+Business,Lindafort,Lindafort,-0.15,Commute,,33.83,3,Card,SUV,Round-Trip,2020-11-21,2020,November,Saturday,21
+Personal,Millermouth,Millermouth,10.53,Customer Visit,4.6,1.03,1,Cash,SUV,Round-Trip,2022-12-25,2022,December,Sunday,25
+Business,New Kristenstad,New Kristenstad,23.56,Customer Visit,3.8,31.93,2,Uber Credit,Economy,Round-Trip,2020-05-12,2020,May,Tuesday,12
+Personal,Mirandaland,Emilyport,17.14,Meal/Entertain,4.2,55.36,2,Card,Economy,One-Way,2025-01-02,2025,January,Thursday,2
+Business,Henryburgh,Henryburgh,2.54,Errand/Supplies,4.7,4.55,4,Card,SUV,Round-Trip,2021-06-27,2021,June,Sunday,27
+Personal,Jasminechester,Johnborough,16.73,Commute,3.7,27.85,2,Uber Credit,SUV,One-Way,2020-02-15,2020,February,Saturday,15
+Personal,Joshuaton,Wheelerberg,18.85,Meeting,4.7,15.07,1,Cash,Economy,One-Way,2021-06-08,2021,June,Tuesday,8
+Business,Laurieborough,Laurieborough,6.16,Meal/Entertain,4.5,31.39,2,Uber Credit,SUV,Round-Trip,2024-05-23,2024,May,Thursday,23
+Business,Youngberg,Youngberg,16.54,Customer Visit,4.8,25.29,4,Card,SUV,Round-Trip,2022-08-14,2022,August,Sunday,14
+Personal,West Tiffany,West Tiffany,15.58,Meeting,4.6,15.38,4,Uber Credit,Economy,Round-Trip,2020-10-11,2020,October,Sunday,11
+Business,West Zoeborough,West Zoeborough,3.57,Meal/Entertain,5.2,32.32,1,Card,Premium,Round-Trip,2023-06-08,2023,June,Thursday,8
+Business,Lake Stevenfurt,Lake Shane,18.58,Commute,4.6,52.07,3,Uber Credit,Premium,One-Way,2021-05-28,2021,May,Friday,28
+Business,Jeffview,Jeffview,20.61,,4.3,22.14,2,Cash,SUV,Round-Trip,2023-04-06,2023,April,Thursday,6
+Business,Deborahville,Deborahville,25.83,Commute,4.6,35.8,4,Card,Economy,Round-Trip,2020-04-26,2020,April,Sunday,26
+Business,Sonyaside,Sonyaside,25.54,Meal/Entertain,4.8,5.6,2,Card,SUV,Round-Trip,2022-03-06,2022,March,Sunday,6
+Business,North Cynthia,North Cynthia,1.22,Meeting,4.5,10.65,2,Cash,SUV,Round-Trip,2025-02-07,2025,February,Friday,7
+Personal,East Anthonyland,East Anthonyland,5.62,Errand/Supplies,4.5,32.09,3,Uber Credit,Economy,Round-Trip,2021-06-05,2021,June,Saturday,5
+Personal,Teresaville,East Hannah,20.15,Customer Visit,4.1,47.26,4,Cash,Premium,One-Way,2022-06-04,2022,June,Saturday,4
+Personal,Marshalltown,Marshalltown,20.14,Commute,4.2,30.33,2,Uber Credit,SUV,Round-Trip,2023-08-24,2023,August,Thursday,24
+Business,East Hailey,East Hailey,20.15,Meeting,3.8,20.3,4,Cash,SUV,Round-Trip,2020-12-15,2020,December,Tuesday,15
+Personal,South Kelly,South Kelly,53.53,,5.4,24.99,1,Cash,Premium,Round-Trip,2025-02-02,2025,February,Sunday,2
+Business,Hawkinsland,Hawkinsland,20.71,Errand/Supplies,3.9,6.24,1,Card,Economy,Round-Trip,2024-08-07,2024,August,Wednesday,7
+Business,New Anthonyfurt,New Anthonyfurt,26.36,Meal/Entertain,4.2,34.07,2,Card,Economy,Round-Trip,2023-03-03,2023,March,Friday,3
+Personal,Elizabethland,,24.54,Errand/Supplies,4.1,38.23,4,Uber Credit,Economy,Unknown,2025-01-13,2025,January,Monday,13
+Business,New Brandy,New Brandy,21.51,Errand/Supplies,4.9,18.22,2,Cash,Economy,Round-Trip,2020-07-21,2020,July,Tuesday,21
+Personal,Waltersport,Waltersport,11.85,Meal/Entertain,4.4,17.95,4,Uber Credit,Economy,Round-Trip,2023-09-25,2023,September,Monday,25
+Personal,East Erica,North Amberborough,22.59,Meal/Entertain,5.1,28.99,4,Cash,SUV,One-Way,2020-05-08,2020,May,Friday,8
+Personal,Port Josephland,West Kevinside,7.27,Meal/Entertain,4.2,18.45,3,Cash,SUV,One-Way,2024-10-18,2024,October,Friday,18
+Personal,Port Garyfort,Lake Christophertown,12.63,Meeting,4.6,24.01,3,Card,Premium,One-Way,2024-12-14,2024,December,Saturday,14
+Personal,Lake Caitlin,Port Karenfort,10.15,Meeting,4.1,56.5,3,Cash,Premium,One-Way,2022-02-17,2022,February,Thursday,17
+Personal,Andersonport,Andersonport,15.82,Customer Visit,5.6,21.29,2,Card,Premium,Round-Trip,2021-12-06,2021,December,Monday,6
+Business,Port Elizabethmouth,Port Elizabethmouth,38.15,Customer Visit,3.9,19.62,3,Card,Premium,Round-Trip,2020-05-30,2020,May,Saturday,30
+Business,Amychester,Amychester,-3.67,Errand/Supplies,4.7,15.29,3,Cash,Economy,Round-Trip,2022-02-20,2022,February,Sunday,20
+Personal,Flynnstad,Flynnstad,21.86,Errand/Supplies,,36.16,1,Cash,Economy,Round-Trip,2022-02-09,2022,February,Wednesday,9
+Business,New Gerald,New Gerald,-1.13,Customer Visit,4.7,22.28,4,Uber Credit,Premium,Round-Trip,2022-03-07,2022,March,Monday,7
+Business,East Carlos,East Carlos,10.28,Commute,4.4,15.26,4,Uber Credit,SUV,Round-Trip,2021-11-02,2021,November,Tuesday,2
+Business,Mccallhaven,Mccallhaven,25.89,Errand/Supplies,4.4,44.82,3,Uber Credit,Economy,Round-Trip,2023-12-18,2023,December,Monday,18
+Personal,Hoffmanview,Hoffmanview,15.64,Commute,4.5,46.29,4,Card,Economy,Round-Trip,2023-10-31,2023,October,Tuesday,31
+Business,Andersonmouth,Andersonmouth,4.22,Commute,4.4,15.99,1,Card,SUV,Round-Trip,2021-08-20,2021,August,Friday,20
+Business,South David,South David,7.85,Meal/Entertain,5.0,3.0,1,Card,SUV,Round-Trip,2024-11-03,2024,November,Sunday,3
+Personal,Rebeccatown,Rebeccatown,21.8,Meeting,5.6,40.11,3,Card,SUV,Round-Trip,2020-04-13,2020,April,Monday,13
+Business,North Annaborough,North Annaborough,7.7,Customer Visit,4.2,14.73,1,Card,SUV,Round-Trip,2020-07-01,2020,July,Wednesday,1
+Business,West Sheenaton,West Sheenaton,17.16,Meeting,3.8,36.86,4,Card,SUV,Round-Trip,2024-07-06,2024,July,Saturday,6
+Business,North Davidfurt,South Louishaven,15.46,Customer Visit,4.5,4.55,2,Cash,Premium,One-Way,2021-12-26,2021,December,Sunday,26
+Business,Zacharymouth,Novakland,8.48,Meeting,5.8,38.39,4,Uber Credit,SUV,One-Way,2024-09-01,2024,September,Sunday,1
+Business,Jacquelineland,Jacquelineland,36.44,,4.1,6.83,2,Uber Credit,Economy,Round-Trip,2022-01-18,2022,January,Tuesday,18
+Business,Joannahaven,Joannahaven,21.34,Meeting,5.3,35.96,3,Uber Credit,SUV,Round-Trip,2023-06-02,2023,June,Friday,2
+Business,West Bradley,Williamfort,-5.25,Meal/Entertain,5.3,25.21,2,Cash,Premium,One-Way,2024-01-13,2024,January,Saturday,13
+Personal,Williamsstad,Codyburgh,16.86,Commute,4.2,10.69,1,Uber Credit,Economy,One-Way,2021-10-21,2021,October,Thursday,21
+Business,Lewisberg,Lewisberg,8.38,Customer Visit,4.8,18.89,4,Card,SUV,Round-Trip,2021-07-12,2021,July,Monday,12
+Business,Lake Tammy,Lake Tammy,23.52,Commute,,35.29,2,Cash,SUV,Round-Trip,2021-01-20,2021,January,Wednesday,20
+Business,New Amberport,New Amberport,7.07,Customer Visit,4.3,26.59,4,Cash,SUV,Round-Trip,2022-01-16,2022,January,Sunday,16
+Business,East Jennifermouth,East Jennifermouth,13.85,,4.4,33.77,3,Uber Credit,Economy,Round-Trip,2024-11-24,2024,November,Sunday,24
+Personal,East Kevinside,East Kevinside,20.05,Meal/Entertain,,54.65,3,Card,SUV,Round-Trip,2025-02-08,2025,February,Saturday,8
+Personal,East Kathy,East Kathy,23.66,,4.0,1.54,1,Uber Credit,Premium,Round-Trip,2020-12-25,2020,December,Friday,25
+Personal,Port Charles,Port Charles,3.0,Customer Visit,4.2,49.26,3,Cash,Premium,Round-Trip,2022-02-19,2022,February,Saturday,19
+Business,Brocktown,Jenniferberg,11.65,Meeting,3.9,26.57,2,Uber Credit,SUV,One-Way,2020-08-16,2020,August,Sunday,16
+Personal,Port Annetown,Port Annetown,10.25,Meal/Entertain,4.5,11.52,3,Cash,Economy,Round-Trip,2020-06-13,2020,June,Saturday,13
+Business,Rosston,Rosston,8.47,Errand/Supplies,4.1,5.05,1,Cash,Economy,Round-Trip,2020-11-12,2020,November,Thursday,12
+Personal,South Nicole,,32.65,Commute,4.6,22.16,4,Cash,Premium,Unknown,2022-12-28,2022,December,Wednesday,28
+Personal,Kellyhaven,Kellyhaven,19.05,Customer Visit,3.7,38.82,4,Card,Premium,Round-Trip,2021-12-13,2021,December,Monday,13
+Business,West Zoeborough,West Zoeborough,2.39,Meal/Entertain,4.7,23.09,3,Card,Economy,Round-Trip,2021-03-03,2021,March,Wednesday,3
+Personal,Lake Zacharyshire,South Brandon,24.18,Meeting,4.9,47.67,2,Uber Credit,Economy,One-Way,2022-07-17,2022,July,Sunday,17
+Personal,North Christophershire,Brownfort,36.22,Customer Visit,3.5,3.23,1,Uber Credit,Premium,One-Way,2023-10-27,2023,October,Friday,27
+Personal,North Bryanbury,Stacyshire,25.32,Meeting,4.7,248.2,2,Uber Credit,SUV,One-Way,2021-05-16,2021,May,Sunday,16
+Business,North Bethanyville,North Bethanyville,-0.19,Errand/Supplies,5.1,6.21,1,Card,SUV,Round-Trip,2024-04-23,2024,April,Tuesday,23
+Business,Lewisberg,New Alexander,10.16,Customer Visit,3.9,30.45,3,Uber Credit,Economy,One-Way,2023-01-04,2023,January,Wednesday,4
+Personal,Phylliston,Phylliston,27.67,Commute,5.3,38.3,1,Card,SUV,Round-Trip,2025-02-15,2025,February,Saturday,15
+Business,Casehaven,Nealview,7.92,Customer Visit,4.7,18.69,1,Cash,Economy,One-Way,2024-06-09,2024,June,Sunday,9
+Business,South Emilyview,Lake Katherineside,19.44,Commute,4.1,14.06,3,Cash,Premium,One-Way,2020-04-21,2020,April,Tuesday,21
+Business,Mooreshire,Mooreshire,22.75,Meeting,4.5,27.98,2,Card,Premium,Round-Trip,2021-11-22,2021,November,Monday,22
+Personal,New Juanstad,Joycefort,5.73,Customer Visit,,31.55,3,Card,Economy,One-Way,2024-04-01,2024,April,Monday,1
+Business,West Glenstad,North Annhaven,14.4,Meal/Entertain,4.5,31.06,1,Cash,Premium,One-Way,2020-10-22,2020,October,Thursday,22
+Personal,New Austinmouth,Mathismouth,-17.41,Meal/Entertain,4.8,43.54,3,Card,SUV,One-Way,2021-01-30,2021,January,Saturday,30
+Business,Anthonyberg,Anthonyberg,4.76,Errand/Supplies,4.0,8.93,1,Cash,Premium,Round-Trip,2024-04-08,2024,April,Monday,8
+Business,Porterfurt,Porterfurt,12.47,Meal/Entertain,4.6,35.2,3,Uber Credit,Premium,Round-Trip,2020-04-14,2020,April,Tuesday,14
+Personal,Vegaburgh,Lake Tammy,2.52,Errand/Supplies,3.8,42.89,4,Cash,SUV,One-Way,2024-06-20,2024,June,Thursday,20
+Personal,New Eric,New Eric,31.32,Meeting,4.4,1.68,4,Cash,SUV,Round-Trip,2024-08-08,2024,August,Thursday,8
+Business,Port Alanborough,,0.7,Commute,4.0,29.79,3,Uber Credit,Economy,Unknown,2022-08-21,2022,August,Sunday,21
+Personal,Lake William,Lake William,10.6,Meeting,4.1,17.44,2,Card,Premium,Round-Trip,2022-10-14,2022,October,Friday,14
+Personal,New Austinport,New Austinport,16.31,Commute,5.1,23.78,1,Uber Credit,Economy,Round-Trip,2020-01-01,2020,January,Wednesday,1
+Business,Casehaven,Casehaven,29.41,Commute,5.0,30.22,4,Cash,Economy,Round-Trip,2023-10-27,2023,October,Friday,27
+Personal,Port Amyfort,Port Amyfort,6.4,Errand/Supplies,4.8,17.69,2,Cash,SUV,Round-Trip,2020-07-26,2020,July,Sunday,26
+Business,Lake Christopherfurt,Lake Christopherfurt,26.63,Meal/Entertain,4.0,14.86,1,Cash,Economy,Round-Trip,2022-10-07,2022,October,Friday,7
+Business,East Beth,East Beth,15.1,Meal/Entertain,,25.51,4,Cash,Economy,Round-Trip,2023-12-02,2023,December,Saturday,2
+Personal,Port Jamesville,Port Jamesville,5.18,Errand/Supplies,5.1,8.69,4,Cash,Premium,Round-Trip,2024-10-30,2024,October,Wednesday,30
+Business,Lake Kimberlyview,Lake Kimberlyview,19.62,Errand/Supplies,4.6,8.71,3,Uber Credit,Economy,Round-Trip,2023-09-09,2023,September,Saturday,9
+Business,Carterport,Carterport,16.99,Meeting,5.7,35.19,1,Cash,Economy,Round-Trip,2023-04-23,2023,April,Sunday,23
+Business,Taraland,Taraland,9.0,Errand/Supplies,4.7,7.77,2,Card,Economy,Round-Trip,2020-11-03,2020,November,Tuesday,3
+Personal,Ginaside,Ginaside,15.7,Meal/Entertain,4.6,34.99,2,Uber Credit,Premium,Round-Trip,2025-02-02,2025,February,Sunday,2
+Personal,Cartermouth,Cartermouth,11.15,,4.3,31.94,2,Uber Credit,SUV,Round-Trip,2024-07-08,2024,July,Monday,8
+Business,Port Erikmouth,Port Erikmouth,16.14,Errand/Supplies,4.6,0.89,1,Uber Credit,Premium,Round-Trip,2022-12-08,2022,December,Thursday,8
+Personal,Alvinview,Alvinview,21.62,,4.4,14.84,2,Cash,SUV,Round-Trip,2021-04-12,2021,April,Monday,12
+Business,Nathanfort,New Adam,30.86,Errand/Supplies,4.9,42.91,2,Cash,SUV,One-Way,2022-04-09,2022,April,Saturday,9
+Personal,Ryanmouth,Ryanmouth,2.62,Meeting,5.0,10.28,2,Uber Credit,SUV,Round-Trip,2020-06-25,2020,June,Thursday,25
+Personal,Melissafurt,Melissafurt,36.33,Errand/Supplies,4.1,18.03,3,Cash,Premium,Round-Trip,2022-03-09,2022,March,Wednesday,9
+Personal,Meganstad,Meganstad,-4.52,Customer Visit,3.8,31.93,3,Card,Premium,Round-Trip,2022-03-14,2022,March,Monday,14
+Business,Collinsbury,Collinsbury,13.48,Customer Visit,3.6,36.75,1,Card,SUV,Round-Trip,2020-04-09,2020,April,Thursday,9
+Business,Port Richard,Stefanieberg,20.88,Commute,4.8,21.23,1,Cash,Premium,One-Way,2020-01-26,2020,January,Sunday,26
+Personal,Joshuaville,Joshuaville,17.81,Commute,3.9,16.04,2,Uber Credit,Economy,Round-Trip,2024-11-07,2024,November,Thursday,7
+Personal,South Jaredstad,,8.77,Customer Visit,3.4,46.34,3,Cash,SUV,Unknown,2021-05-07,2021,May,Friday,7
+Business,New Brandy,New Brandy,12.92,Commute,4.7,51.08,4,Cash,SUV,Round-Trip,2021-09-01,2021,September,Wednesday,1
+Business,Patricktown,Patricktown,10.07,Commute,5.7,39.68,4,Cash,SUV,Round-Trip,2023-05-23,2023,May,Tuesday,23
+Personal,Tannerport,Lake Brittany,9.11,,4.5,26.28,2,Uber Credit,SUV,One-Way,2022-10-24,2022,October,Monday,24
+Business,Lake Nicholasborough,Lake Nicholasborough,23.5,Meal/Entertain,4.9,12.88,2,Card,Economy,Round-Trip,2024-06-21,2024,June,Friday,21
+Personal,North Paulachester,North Paulachester,18.57,Errand/Supplies,4.5,12.54,3,Cash,Premium,Round-Trip,2024-03-19,2024,March,Tuesday,19
+Business,East Johnfort,East Johnfort,8.07,Customer Visit,4.5,32.84,3,Uber Credit,Economy,Round-Trip,2023-07-01,2023,July,Saturday,1
+Personal,Nathanielhaven,Nathanielhaven,24.0,Meeting,5.0,31.28,3,Uber Credit,Premium,Round-Trip,2022-12-01,2022,December,Thursday,1
+Personal,Fisherton,Fisherton,18.07,Customer Visit,4.4,46.02,1,Card,Economy,Round-Trip,2021-08-15,2021,August,Sunday,15
+Business,Lake Katherineside,Lake Katherineside,23.13,Customer Visit,4.6,34.76,1,Uber Credit,SUV,Round-Trip,2020-10-04,2020,October,Sunday,4
+Business,Beanview,Beanview,21.3,Meal/Entertain,4.7,2.45,2,Uber Credit,Economy,Round-Trip,2025-02-19,2025,February,Wednesday,19
+Business,Grayton,Grayton,6.71,Meal/Entertain,4.2,40.78,1,Uber Credit,Economy,Round-Trip,2022-06-25,2022,June,Saturday,25
+Business,West Cynthiachester,West Cynthiachester,9.4,Commute,,10.03,3,Card,SUV,Round-Trip,2020-11-05,2020,November,Thursday,5
+Business,New Jenniferside,New Jenniferside,22.47,Meeting,,19.24,3,Cash,Premium,Round-Trip,2022-04-20,2022,April,Wednesday,20
+Personal,Amandaville,New Charlesstad,21.1,Meal/Entertain,4.1,28.75,1,Card,Premium,One-Way,2024-08-12,2024,August,Monday,12
+Business,West Briannabury,West Briannabury,14.79,Commute,4.8,54.94,4,Cash,SUV,Round-Trip,2021-07-19,2021,July,Monday,19
+Personal,Amymouth,Amymouth,16.17,Meeting,4.1,71.65,2,Uber Credit,SUV,Round-Trip,2022-03-22,2022,March,Tuesday,22
+Business,Port Adamtown,West Williamfurt,27.78,Meal/Entertain,4.5,34.1,4,Uber Credit,SUV,One-Way,2023-04-13,2023,April,Thursday,13
+Business,Kellyport,Kellyport,9.08,Customer Visit,4.5,22.25,2,Cash,SUV,Round-Trip,2023-04-23,2023,April,Sunday,23
+Personal,West Glenstad,West Glenstad,20.47,Customer Visit,5.0,33.02,4,Card,SUV,Round-Trip,2023-01-19,2023,January,Thursday,19
+Personal,Lake Michael,Christopherberg,12.98,Meeting,4.7,38.31,1,Card,Economy,One-Way,2022-11-12,2022,November,Saturday,12
+Business,West Kimberly,Collinsbury,12.82,Meeting,4.5,20.19,2,Card,Premium,One-Way,2023-01-15,2023,January,Sunday,15
+Personal,Josephton,Josephton,25.99,Meal/Entertain,4.9,51.93,2,Cash,SUV,Round-Trip,2022-08-01,2022,August,Monday,1
+Business,Walkertown,Walkertown,23.25,Meal/Entertain,,28.45,2,Uber Credit,Premium,Round-Trip,2021-07-07,2021,July,Wednesday,7
+Business,East Kevinside,East Kevinside,23.14,Meeting,4.8,32.47,3,Uber Credit,SUV,Round-Trip,2020-11-02,2020,November,Monday,2
+Business,South Craig,South Craig,28.05,Meeting,4.5,34.99,3,Uber Credit,Economy,Round-Trip,2023-05-07,2023,May,Sunday,7
+Personal,Robertshire,Robertshire,15.21,Commute,3.8,31.32,4,Cash,Economy,Round-Trip,2020-12-23,2020,December,Wednesday,23
+Personal,Lake Brianfurt,Lake Brianfurt,21.82,Commute,,37.58,1,Uber Credit,Economy,Round-Trip,2023-05-15,2023,May,Monday,15
+Business,Joannahaven,,11.9,Commute,4.3,15.74,3,Uber Credit,Economy,Unknown,2020-09-03,2020,September,Thursday,3
+Business,Russellmouth,Russellmouth,18.24,Customer Visit,4.2,166.29999999999998,2,Card,Premium,Round-Trip,2020-04-05,2020,April,Sunday,5
+Business,Graychester,Graychester,13.7,Customer Visit,4.4,8.5,3,Uber Credit,Economy,Round-Trip,2024-05-02,2024,May,Thursday,2
+Business,Makaylaburgh,Kelliland,15.97,Commute,4.5,31.59,1,Card,Premium,One-Way,2025-03-02,2025,March,Sunday,2
+Personal,New Hollyton,Lindaland,20.95,Commute,4.8,36.68,3,Cash,SUV,One-Way,2024-09-13,2024,September,Friday,13
+Business,Port Christopherbury,Port Christopherbury,6.82,Meeting,4.5,31.87,2,Card,SUV,Round-Trip,2021-06-10,2021,June,Thursday,10
+Business,Haasborough,Haasborough,35.92,Customer Visit,4.7,50.12,4,Uber Credit,Economy,Round-Trip,2023-12-13,2023,December,Wednesday,13
+Personal,Lake Nicoleport,Lake Nicoleport,4.94,Commute,4.5,24.92,2,Uber Credit,Premium,Round-Trip,2020-08-14,2020,August,Friday,14
+Personal,East Brendaside,Dillonborough,2.86,Errand/Supplies,3.5,35.03,1,Card,SUV,One-Way,2020-12-25,2020,December,Friday,25
+Business,Moniquechester,Moniquechester,26.58,Meal/Entertain,4.0,8.62,4,Uber Credit,SUV,Round-Trip,2020-08-30,2020,August,Sunday,30
+Personal,Casehaven,Casehaven,22.92,Commute,4.4,19.19,3,Card,SUV,Round-Trip,2021-10-14,2021,October,Thursday,14
+Business,North Christina,North Christina,21.24,Customer Visit,3.9,35.43,3,Uber Credit,SUV,Round-Trip,2022-11-08,2022,November,Tuesday,8
+Business,West Zoeborough,North Tiffanyberg,21.28,Commute,4.8,37.74,3,Card,Economy,One-Way,2022-10-04,2022,October,Tuesday,4
+Personal,Johnathanfort,Johnathanfort,14.88,Errand/Supplies,5.3,20.59,4,Card,Economy,Round-Trip,2021-05-19,2021,May,Wednesday,19
+Business,West Joycechester,West Joycechester,6.03,Meeting,5.1,23.93,2,Cash,Economy,Round-Trip,2024-11-04,2024,November,Monday,4
+Personal,New Carlaberg,New Carlaberg,15.76,Customer Visit,4.4,2.23,4,Card,SUV,Round-Trip,2021-08-25,2021,August,Wednesday,25
+Business,North Davidton,North Davidton,8.23,Meeting,5.2,19.64,4,Card,Economy,Round-Trip,2020-08-13,2020,August,Thursday,13
+Business,Michaelfort,Michaelfort,24.75,Meal/Entertain,4.6,38.36,1,Cash,SUV,Round-Trip,2024-05-14,2024,May,Tuesday,14
+Personal,North Kellymouth,North Kellymouth,13.53,Meeting,4.3,33.63,4,Uber Credit,Economy,Round-Trip,2022-10-05,2022,October,Wednesday,5
+Personal,New Anthony,New Anthony,6.75,Commute,4.2,32.51,3,Card,Economy,Round-Trip,2022-04-25,2022,April,Monday,25
+Personal,Lindsayville,Lindsayville,11.79,Errand/Supplies,4.3,25.75,2,Cash,Premium,Round-Trip,2021-10-02,2021,October,Saturday,2
+Business,Lake Jeremyland,,19.13,Meeting,4.3,25.11,2,Cash,Premium,Unknown,2024-07-16,2024,July,Tuesday,16
+Business,Port Kimberly,West Traci,9.36,Errand/Supplies,4.6,15.1,2,Card,SUV,One-Way,2020-04-02,2020,April,Thursday,2
+Business,North Elizabethmouth,North Elizabethmouth,6.78,,,35.48,3,Uber Credit,SUV,Round-Trip,2020-09-20,2020,September,Sunday,20
+Business,Lake Frankshire,Johnborough,17.44,Customer Visit,4.5,31.31,3,Cash,SUV,One-Way,2020-04-23,2020,April,Thursday,23
+Personal,South Vickie,South Vickie,17.45,Commute,4.7,323.8,3,Card,Premium,Round-Trip,2020-12-12,2020,December,Saturday,12
+Personal,West Elizabeth,Lowemouth,9.93,Commute,5.1,17.11,3,Cash,Economy,One-Way,2023-01-19,2023,January,Thursday,19
+Personal,Port Anthonybury,Lake Sherry,10.29,Commute,,7.3,3,Uber Credit,Premium,One-Way,2022-01-22,2022,January,Saturday,22
+Business,Laurieborough,Port Stephanie,17.32,,,41.46,4,Card,Economy,One-Way,2023-05-13,2023,May,Saturday,13
+Personal,Port Alyssa,Port Alyssa,0.52,Meal/Entertain,3.2,17.82,3,Card,SUV,Round-Trip,2020-11-18,2020,November,Wednesday,18
+Personal,West Scottfort,West Scottfort,0.93,Meal/Entertain,5.0,12.06,3,Uber Credit,Premium,Round-Trip,2020-05-15,2020,May,Friday,15
+Personal,Steveview,Steveview,7.82,Meal/Entertain,3.8,35.4,3,Uber Credit,SUV,Round-Trip,2020-03-13,2020,March,Friday,13
+Personal,Flynnstad,,12.87,Customer Visit,4.4,19.12,3,Cash,Economy,Unknown,2024-01-05,2024,January,Friday,5
+Business,East Jasonfort,East Jasonfort,18.11,Customer Visit,3.9,40.9,2,Card,Economy,Round-Trip,2025-03-06,2025,March,Thursday,6
+Business,Franciscomouth,Marcburgh,29.75,Meal/Entertain,3.6,342.6,3,Cash,Premium,One-Way,2024-09-18,2024,September,Wednesday,18
+Personal,Clarkbury,Clarkbury,23.58,Commute,4.8,35.25,4,Card,Premium,Round-Trip,2021-01-07,2021,January,Thursday,7
+Business,East Miaberg,East Miaberg,13.4,Meeting,4.9,4.51,4,Cash,Premium,Round-Trip,2023-11-07,2023,November,Tuesday,7
+Personal,Lake Richardhaven,Lake Richardhaven,14.81,Meal/Entertain,4.2,43.18,4,Card,SUV,Round-Trip,2021-10-06,2021,October,Wednesday,6
+Business,Suzannebury,Suzannebury,4.97,Meeting,3.2,28.92,1,Uber Credit,Economy,Round-Trip,2024-01-11,2024,January,Thursday,11
+Business,Jamesberg,Jamesberg,14.81,Meal/Entertain,4.2,19.46,2,Cash,Premium,Round-Trip,2020-11-12,2020,November,Thursday,12
+Personal,North Lori,New Carolville,12.11,Meeting,4.7,27.15,3,Card,SUV,One-Way,2021-02-07,2021,February,Sunday,7
+Personal,Jacquelineport,Jacquelineport,18.23,Commute,3.8,1.64,1,Card,SUV,Round-Trip,2020-02-21,2020,February,Friday,21
+Personal,Michelleville,Michelleville,6.73,Customer Visit,4.6,31.13,3,Cash,SUV,Round-Trip,2024-07-31,2024,July,Wednesday,31
+Personal,South Richardfurt,South Richardfurt,201.9,Meal/Entertain,4.5,9.56,1,Uber Credit,Economy,Round-Trip,2024-08-01,2024,August,Thursday,1
+Business,Warrenmouth,Warrenmouth,30.33,Meal/Entertain,4.8,47.1,1,Uber Credit,Premium,Round-Trip,2023-03-21,2023,March,Tuesday,21
+Personal,Saunderston,Saunderston,13.91,Commute,4.6,2.16,4,Cash,Premium,Round-Trip,2024-07-01,2024,July,Monday,1
+Business,Port Christopher,South Rachel,19.02,Errand/Supplies,4.0,41.69,4,Cash,SUV,One-Way,2024-02-07,2024,February,Wednesday,7
+Personal,Jamesside,Jamesside,21.9,Meal/Entertain,5.1,15.56,1,Card,Premium,Round-Trip,2021-07-01,2021,July,Thursday,1
+Business,Adamfurt,Adamfurt,10.99,Meeting,4.4,48.01,4,Card,Economy,Round-Trip,2023-05-08,2023,May,Monday,8
+Personal,Adamton,Adamton,17.24,Commute,4.5,16.96,1,Uber Credit,Premium,Round-Trip,2021-01-14,2021,January,Thursday,14
+Business,Melissamouth,Melissamouth,15.13,Errand/Supplies,4.0,0.61,2,Uber Credit,SUV,Round-Trip,2024-08-28,2024,August,Wednesday,28
+Business,Pricechester,Pricechester,15.98,Meal/Entertain,4.3,8.25,4,Uber Credit,Economy,Round-Trip,2021-11-10,2021,November,Wednesday,10
+Personal,Danielhaven,Lake Anthonymouth,7.27,Meal/Entertain,4.1,43.54,4,Cash,Premium,One-Way,2022-06-19,2022,June,Sunday,19
+Personal,Evansport,Evansport,15.25,Customer Visit,4.4,22.66,4,Cash,Economy,Round-Trip,2025-02-26,2025,February,Wednesday,26
+Business,Kimberlychester,Kimberlychester,19.98,Errand/Supplies,5.4,16.78,2,Cash,Premium,Round-Trip,2023-05-08,2023,May,Monday,8
+Personal,New Vanessa,New Vanessa,29.51,Commute,3.8,27.4,1,Uber Credit,Economy,Round-Trip,2023-05-17,2023,May,Wednesday,17
+Personal,West Robin,West Robin,24.59,Meeting,3.7,32.53,3,Uber Credit,SUV,Round-Trip,2021-03-12,2021,March,Friday,12
+Business,Longport,,36.53,Meal/Entertain,5.2,41.76,4,Uber Credit,SUV,Unknown,2021-12-28,2021,December,Tuesday,28
+Personal,West Heatherhaven,West Heatherhaven,7.33,Commute,4.4,46.73,1,Uber Credit,SUV,Round-Trip,2020-03-22,2020,March,Sunday,22
+Personal,Ryanhaven,Ryanhaven,23.72,Customer Visit,4.2,19.6,2,Cash,Economy,Round-Trip,2021-02-05,2021,February,Friday,5
+Personal,Millerburgh,Amandaville,16.83,Meal/Entertain,5.0,5.11,3,Card,Economy,One-Way,2025-03-21,2025,March,Friday,21
+Personal,Port Eric,Youngberg,36.9,Errand/Supplies,4.2,18.8,4,Cash,SUV,One-Way,2025-01-16,2025,January,Thursday,16
+Personal,Julieton,Julieton,6.92,Commute,5.4,28.9,2,Card,SUV,Round-Trip,2023-09-03,2023,September,Sunday,3
+Personal,North Chelseyview,Port Miguel,6.6,Meeting,4.8,10.54,2,Card,Economy,One-Way,2024-08-13,2024,August,Tuesday,13
+Business,Riveraberg,,9.01,Customer Visit,4.3,10.64,3,Cash,Economy,Unknown,2023-03-13,2023,March,Monday,13
+Business,Campbellville,Campbellville,-6.24,Commute,5.6,30.16,1,Cash,Economy,Round-Trip,2020-12-08,2020,December,Tuesday,8
+Personal,Maryview,Maryview,9.74,Meal/Entertain,4.2,24.27,4,Cash,Economy,Round-Trip,2024-07-29,2024,July,Monday,29
+Personal,Port Kimberly,Port Kimberly,7.41,Meeting,4.9,25.49,4,Uber Credit,Economy,Round-Trip,2020-09-27,2020,September,Sunday,27
+Business,Danielleland,Danielleland,16.5,Meal/Entertain,4.6,13.62,1,Cash,Premium,Round-Trip,2022-04-19,2022,April,Tuesday,19
+Personal,Clinemouth,Shahhaven,18.42,Meal/Entertain,5.2,21.54,1,Uber Credit,Premium,One-Way,2023-11-13,2023,November,Monday,13
+Personal,West Loriport,Jacquelinefurt,33.76,Errand/Supplies,5.3,11.14,1,Card,Premium,One-Way,2024-01-11,2024,January,Thursday,11
+Business,Owensshire,Clarkborough,24.5,Errand/Supplies,4.5,38.35,3,Cash,Economy,One-Way,2025-02-19,2025,February,Wednesday,19
+Personal,Wheelerberg,Wheelerberg,9.23,Meal/Entertain,4.1,40.53,3,Uber Credit,Economy,Round-Trip,2023-04-18,2023,April,Tuesday,18
+Personal,Kingville,Kingville,6.02,Customer Visit,4.7,2.69,4,Uber Credit,Economy,Round-Trip,2024-06-03,2024,June,Monday,3
+Business,Hortonhaven,Hortonhaven,19.92,Errand/Supplies,4.2,110.6,3,Uber Credit,SUV,Round-Trip,2022-02-02,2022,February,Wednesday,2
+Personal,Coxborough,Coxborough,1.8,Errand/Supplies,5.5,2.55,2,Cash,SUV,Round-Trip,2020-02-13,2020,February,Thursday,13
+Personal,Gamblebury,Faulknermouth,33.31,,4.6,15.25,4,Card,SUV,One-Way,2023-11-27,2023,November,Monday,27
+Personal,Zacharymouth,Zacharymouth,26.79,Errand/Supplies,4.3,23.75,3,Cash,SUV,Round-Trip,2024-12-24,2024,December,Tuesday,24
+Personal,Erikfurt,Erikfurt,10.31,Meeting,4.6,3.26,1,Uber Credit,Premium,Round-Trip,2025-01-01,2025,January,Wednesday,1
+Personal,South Jamieview,Huffmantown,-2.13,Meal/Entertain,3.8,11.17,2,Card,Economy,One-Way,2020-01-06,2020,January,Monday,6
+Business,Meganside,Meganside,28.54,Meeting,4.0,9.94,1,Card,Premium,Round-Trip,2023-01-04,2023,January,Wednesday,4
+Personal,Lake Jorgeview,,13.85,,5.1,28.11,4,Card,Economy,Unknown,2023-03-12,2023,March,Sunday,12
+Business,Andersonview,Andersonview,27.38,Commute,4.2,26.04,1,Card,Premium,Round-Trip,2024-01-18,2024,January,Thursday,18
+Business,Moralesport,Moralesport,-0.94,Commute,4.0,14.17,3,Uber Credit,SUV,Round-Trip,2022-09-08,2022,September,Thursday,8
+Personal,Marcushaven,Marcushaven,9.01,Meeting,4.8,27.65,3,Uber Credit,Premium,Round-Trip,2023-03-28,2023,March,Tuesday,28
+Personal,South Matthew,South Matthew,15.05,Meal/Entertain,5.1,16.8,4,Card,Premium,Round-Trip,2020-01-05,2020,January,Sunday,5
+Business,Lake Annmouth,Port Alexischester,15.47,Commute,,20.93,1,Card,Economy,One-Way,2022-07-09,2022,July,Saturday,9
+Business,Andersonport,Andersonport,10.5,Errand/Supplies,5.0,50.1,4,Card,SUV,Round-Trip,2020-03-05,2020,March,Thursday,5
+Personal,West Donna,West Donna,21.23,Commute,4.1,45.11,1,Card,Premium,Round-Trip,2025-02-23,2025,February,Sunday,23
+Business,Kristaview,Kristaview,4.32,Customer Visit,3.8,5.51,2,Uber Credit,Economy,Round-Trip,2024-01-24,2024,January,Wednesday,24
+Business,North Markchester,North Markchester,13.58,Errand/Supplies,5.3,37.45,3,Card,SUV,Round-Trip,2023-07-29,2023,July,Saturday,29
+Business,Lake Colleenton,Lake Colleenton,16.2,Errand/Supplies,4.3,37.17,4,Card,SUV,Round-Trip,2021-04-18,2021,April,Sunday,18
+Business,Amberland,Amberland,20.14,Errand/Supplies,4.4,7.78,2,Cash,Economy,Round-Trip,2024-06-11,2024,June,Tuesday,11
+Business,East Lisa,Jeremyview,22.12,Commute,5.2,37.28,2,Uber Credit,Economy,One-Way,2023-11-24,2023,November,Friday,24
+Business,Richardhaven,North Virginiaton,3.75,Errand/Supplies,4.8,48.07,4,Card,Economy,One-Way,2020-07-25,2020,July,Saturday,25
+Personal,Taylormouth,Taylormouth,-0.34,Customer Visit,4.7,8.16,4,Card,SUV,Round-Trip,2022-08-28,2022,August,Sunday,28
+Business,Samanthabury,Port Aaronchester,277.8,Meeting,5.6,11.24,2,Cash,Economy,One-Way,2022-02-04,2022,February,Friday,4
+Personal,Owenburgh,Owenburgh,18.32,Customer Visit,4.2,40.26,1,Card,Premium,Round-Trip,2022-02-08,2022,February,Tuesday,8
+Personal,New Carlos,New Carlos,7.52,Meal/Entertain,5.0,29.07,2,Card,Economy,Round-Trip,2022-06-27,2022,June,Monday,27
+Business,Williamborough,Williamborough,30.51,Errand/Supplies,4.5,33.27,4,Card,Premium,Round-Trip,2024-01-16,2024,January,Tuesday,16
+Personal,Port Christopher,Port Christopher,16.16,Customer Visit,,30.11,2,Cash,Premium,Round-Trip,2025-02-06,2025,February,Thursday,6
+Personal,Cartermouth,Cartermouth,26.79,Commute,5.3,30.86,1,Uber Credit,Premium,Round-Trip,2021-01-05,2021,January,Tuesday,5
+Personal,Lake Alexischester,Lake Alexischester,15.68,Meal/Entertain,4.8,5.1,3,Cash,Premium,Round-Trip,2021-09-30,2021,September,Thursday,30
+Business,Knighthaven,North Kelsey,35.61,Customer Visit,4.8,40.71,3,Uber Credit,Economy,One-Way,2025-03-26,2025,March,Wednesday,26
+Business,Royville,Royville,32.55,Errand/Supplies,5.0,42.54,2,Cash,SUV,Round-Trip,2022-12-11,2022,December,Sunday,11
+Business,Schwartzfurt,Schwartzfurt,12.51,Commute,4.3,21.56,1,Cash,Premium,Round-Trip,2024-01-04,2024,January,Thursday,4
+Business,New Scottport,New Scottport,24.72,Errand/Supplies,4.1,24.35,3,Card,Economy,Round-Trip,2021-03-13,2021,March,Saturday,13
+Personal,Michelleville,Michelleville,21.45,Meal/Entertain,4.0,2.03,2,Uber Credit,Premium,Round-Trip,2025-02-16,2025,February,Sunday,16
+Business,Rogersfort,Rogersfort,28.69,Customer Visit,3.5,32.71,2,Uber Credit,Economy,Round-Trip,2024-07-27,2024,July,Saturday,27
+Business,Ramirezborough,,5.35,Errand/Supplies,,33.58,1,Uber Credit,Premium,Unknown,2020-09-30,2020,September,Wednesday,30
+Personal,Margaretchester,,21.86,Meal/Entertain,3.9,24.07,4,Uber Credit,SUV,Unknown,2025-03-23,2025,March,Sunday,23
+Business,South Melinda,South Melinda,25.58,Commute,4.4,41.87,2,Card,Premium,Round-Trip,2022-03-24,2022,March,Thursday,24
+Business,South Dale,South Dale,-2.59,Customer Visit,4.4,19.99,4,Card,SUV,Round-Trip,2021-11-21,2021,November,Sunday,21
+Business,Nicolehaven,Nicolehaven,3.17,Customer Visit,4.7,33.47,4,Cash,SUV,Round-Trip,2021-11-28,2021,November,Sunday,28
+Personal,Johnborough,Johnborough,-5.39,Meal/Entertain,,9.71,3,Cash,Economy,Round-Trip,2020-04-08,2020,April,Wednesday,8
+Business,Nelsonland,Nelsonland,12.31,Customer Visit,4.9,24.65,4,Card,Premium,Round-Trip,2021-09-18,2021,September,Saturday,18
+Personal,Macdonaldview,Macdonaldview,22.18,Commute,4.2,22.38,1,Cash,Premium,Round-Trip,2024-07-01,2024,July,Monday,1
+Personal,Teresachester,,30.02,Commute,4.4,28.38,3,Card,SUV,Unknown,2022-02-20,2022,February,Sunday,20
+Personal,West Andreaville,West Andreaville,15.74,Customer Visit,4.6,19.46,3,Uber Credit,Premium,Round-Trip,2020-07-26,2020,July,Sunday,26
+Personal,Port Martha,Port Martha,31.29,Errand/Supplies,4.4,23.03,3,Cash,Economy,Round-Trip,2020-02-28,2020,February,Friday,28
+Personal,Deanland,Deanland,1.2,Errand/Supplies,5.3,37.39,2,Card,SUV,Round-Trip,2022-10-12,2022,October,Wednesday,12
+Business,West Philipstad,West Philipstad,-2.03,Commute,4.7,18.45,2,Uber Credit,SUV,Round-Trip,2023-02-14,2023,February,Tuesday,14
+Personal,Travisfurt,Travisfurt,14.44,Errand/Supplies,4.9,0.9,4,Uber Credit,Economy,Round-Trip,2023-11-05,2023,November,Sunday,5
+Personal,Jacquelinefurt,Jacquelinefurt,18.84,Meal/Entertain,4.8,51.24,3,Uber Credit,Economy,Round-Trip,2023-08-17,2023,August,Thursday,17
+Personal,Port Josephhaven,Port Josephhaven,14.67,Meeting,5.1,45.72,3,Card,Economy,Round-Trip,2024-11-03,2024,November,Sunday,3
+Business,Byrdborough,Byrdborough,-5.67,Customer Visit,4.6,5.62,1,Card,Premium,Round-Trip,2024-04-30,2024,April,Tuesday,30
+Personal,West George,West George,14.11,Meal/Entertain,3.9,35.35,4,Card,Economy,Round-Trip,2021-07-05,2021,July,Monday,5
+Personal,New Marcport,New Marcport,1.96,Commute,4.7,17.46,1,Uber Credit,Economy,Round-Trip,2024-09-14,2024,September,Saturday,14
+Business,Moralesshire,Moralesshire,21.7,Meeting,4.2,28.95,4,Uber Credit,SUV,Round-Trip,2021-04-24,2021,April,Saturday,24
+Personal,Susanside,,18.67,Commute,4.2,29.41,4,Uber Credit,Premium,Unknown,2020-06-04,2020,June,Thursday,4
+Personal,Lynnport,Lynnport,5.6,Meeting,4.8,21.48,2,Card,SUV,Round-Trip,2021-03-06,2021,March,Saturday,6
+Business,Bookerbury,Bookerbury,9.86,Meal/Entertain,5.1,13.24,2,Card,SUV,Round-Trip,2022-02-25,2022,February,Friday,25
+Personal,Amandabury,Amandabury,4.41,Meeting,4.5,14.64,1,Cash,Economy,Round-Trip,2022-08-30,2022,August,Tuesday,30
+Business,Sydneybury,,14.37,Errand/Supplies,4.7,11.26,4,Uber Credit,Premium,Unknown,2023-12-09,2023,December,Saturday,9
+Personal,Nicholsmouth,New Barbara,24.55,Meal/Entertain,5.4,12.52,3,Card,Economy,One-Way,2024-07-14,2024,July,Sunday,14
+Personal,Amymouth,Amymouth,5.14,Customer Visit,4.6,23.99,2,Cash,SUV,Round-Trip,2021-05-26,2021,May,Wednesday,26
+Personal,East Johnview,East Johnview,20.04,Commute,5.8,14.26,3,Cash,Premium,Round-Trip,2023-04-05,2023,April,Wednesday,5
+Business,Port Erikmouth,Port Erikmouth,9.7,Errand/Supplies,4.8,35.23,1,Uber Credit,SUV,Round-Trip,2020-07-23,2020,July,Thursday,23
+Business,Jenniferburgh,Smithview,7.07,Customer Visit,3.6,47.31,2,Uber Credit,SUV,One-Way,2022-02-08,2022,February,Tuesday,8
+Business,North Joseph,North Joseph,13.93,Meeting,,16.3,2,Card,Premium,Round-Trip,2023-06-30,2023,June,Friday,30
+Business,East Nicholas,East Nicholas,4.65,Errand/Supplies,4.7,28.59,4,Cash,Economy,Round-Trip,2020-10-01,2020,October,Thursday,1
+Personal,Victoriaside,Victoriaside,9.46,Customer Visit,5.1,32.5,1,Uber Credit,Economy,Round-Trip,2021-08-23,2021,August,Monday,23
+Business,New Charlesstad,New Charlesstad,3.02,Meal/Entertain,4.8,32.08,4,Uber Credit,SUV,Round-Trip,2023-08-04,2023,August,Friday,4
+Business,South Micheal,South Micheal,34.65,Meeting,4.4,26.14,2,Cash,Economy,Round-Trip,2020-07-09,2020,July,Thursday,9
+Business,Angelaburgh,Angelaburgh,15.35,Customer Visit,3.9,36.14,1,Uber Credit,Premium,Round-Trip,2023-01-03,2023,January,Tuesday,3
+Personal,South Angela,South Angela,8.0,Meeting,4.4,32.23,2,Cash,Premium,Round-Trip,2024-03-17,2024,March,Sunday,17
+Personal,South Mariastad,South Mariastad,17.14,Customer Visit,4.1,6.44,1,Cash,Economy,Round-Trip,2022-04-03,2022,April,Sunday,3
+Personal,West Stacey,West Stacey,13.88,Commute,,38.04,2,Uber Credit,Economy,Round-Trip,2020-11-06,2020,November,Friday,6
+Personal,Lake Tyler,Andrewsland,12.79,Meal/Entertain,,38.31,3,Cash,SUV,One-Way,2024-09-12,2024,September,Thursday,12
+Personal,Jamesshire,Jamesshire,21.14,Errand/Supplies,5.3,13.55,3,Cash,Premium,Round-Trip,2022-06-26,2022,June,Sunday,26
+Business,West Jill,West Luisberg,22.58,Customer Visit,4.7,25.57,4,Card,Economy,One-Way,2021-06-12,2021,June,Saturday,12
+Business,West Julieland,Alexanderside,9.69,Meeting,3.9,35.25,3,Cash,Economy,One-Way,2020-10-23,2020,October,Friday,23
+Personal,Lake Johnmouth,Lake Johnmouth,9.24,Meal/Entertain,4.7,21.86,2,Uber Credit,Economy,Round-Trip,2023-08-15,2023,August,Tuesday,15
+Personal,New Jennifer,New Jennifer,12.25,Errand/Supplies,5.1,41.09,2,Cash,SUV,Round-Trip,2023-01-27,2023,January,Friday,27
+Business,East Alexandraside,East Alexandraside,-8.02,Meeting,4.2,60.46,3,Cash,Premium,Round-Trip,2024-07-06,2024,July,Saturday,6
+Personal,Johntown,,-0.15,Meal/Entertain,4.4,13.21,4,Uber Credit,SUV,Unknown,2023-04-20,2023,April,Thursday,20
+Personal,East Kennethtown,East Kennethtown,28.67,Meeting,4.5,4.28,3,Cash,Premium,Round-Trip,2023-05-03,2023,May,Wednesday,3
+Business,Fryeland,Fryeland,31.45,Meal/Entertain,4.1,29.56,1,Cash,Premium,Round-Trip,2022-05-27,2022,May,Friday,27
+Personal,West Josephburgh,West Josephburgh,12.51,Errand/Supplies,,35.82,1,Cash,SUV,Round-Trip,2022-09-06,2022,September,Tuesday,6
+Personal,South Jamieview,South Jamieview,20.77,Errand/Supplies,4.4,21.54,1,Uber Credit,Economy,Round-Trip,2021-04-07,2021,April,Wednesday,7
+Personal,Gutierreztown,Gutierreztown,18.11,Meeting,4.7,46.8,3,Card,SUV,Round-Trip,2024-10-31,2024,October,Thursday,31
+Personal,Elliottberg,Elliottberg,45.79,Meal/Entertain,4.1,4.92,3,Card,Economy,Round-Trip,2020-05-19,2020,May,Tuesday,19
+Business,New Amberport,New Amberport,26.2,Customer Visit,4.3,35.39,3,Cash,SUV,Round-Trip,2021-07-21,2021,July,Wednesday,21
+Personal,Billyton,Billyton,13.72,Errand/Supplies,4.9,15.91,1,Uber Credit,Economy,Round-Trip,2025-01-12,2025,January,Sunday,12
+Business,Obrienberg,Obrienberg,5.44,Customer Visit,4.3,50.79,4,Uber Credit,SUV,Round-Trip,2022-12-20,2022,December,Tuesday,20
+Personal,Benjaminshire,Benjaminshire,-1.06,Customer Visit,5.4,54.89,2,Uber Credit,Premium,Round-Trip,2024-01-19,2024,January,Friday,19
+Personal,Port Christopher,Lake Virginia,17.03,Commute,4.3,13.5,3,Uber Credit,Economy,One-Way,2021-01-26,2021,January,Tuesday,26
+Personal,Port Jessica,Port Jessica,7.44,Meeting,4.6,16.76,4,Card,SUV,Round-Trip,2024-10-26,2024,October,Saturday,26
+Business,Lake Katherineside,Lake Katherineside,0.78,Meeting,5.0,37.89,2,Uber Credit,SUV,Round-Trip,2020-10-12,2020,October,Monday,12
+Personal,West Rebeccaland,West Rebeccaland,8.53,Meeting,3.8,19.19,2,Card,Economy,Round-Trip,2023-11-29,2023,November,Wednesday,29
+Personal,Henryside,Henryside,4.18,,3.6,24.32,2,Cash,Premium,Round-Trip,2022-07-02,2022,July,Saturday,2
+Personal,Bradfordland,Bradfordland,31.87,Errand/Supplies,3.7,25.38,4,Cash,SUV,Round-Trip,2023-02-09,2023,February,Thursday,9
+Business,New Theresashire,South Chadville,23.82,Errand/Supplies,5.1,3.8,4,Uber Credit,Economy,One-Way,2021-03-29,2021,March,Monday,29
+Personal,North Annhaven,North Annhaven,14.92,Commute,4.2,24.79,1,Uber Credit,Economy,Round-Trip,2023-10-09,2023,October,Monday,9
+Business,Cordovaport,West Katherine,29.8,Commute,5.8,14.65,4,Card,Premium,One-Way,2022-12-19,2022,December,Monday,19
+Business,Browningchester,Browningchester,15.77,Commute,4.2,17.6,4,Cash,Premium,Round-Trip,2021-11-18,2021,November,Thursday,18
+Personal,Patriciamouth,Patriciamouth,6.39,Customer Visit,4.6,46.65,4,Cash,Premium,Round-Trip,2021-04-04,2021,April,Sunday,4
+Business,Villarrealhaven,Villarrealhaven,30.23,Meeting,5.3,6.15,2,Uber Credit,Premium,Round-Trip,2022-01-12,2022,January,Wednesday,12
+Business,West Nicholasfort,West Nicholasfort,20.39,Meal/Entertain,5.5,37.2,3,Uber Credit,SUV,Round-Trip,2021-06-21,2021,June,Monday,21
+Personal,Dannybury,Dannybury,4.63,,5.5,20.82,1,Card,SUV,Round-Trip,2021-03-12,2021,March,Friday,12
+Business,Flynnstad,Monicamouth,13.1,Meal/Entertain,,20.8,3,Uber Credit,Premium,One-Way,2020-01-09,2020,January,Thursday,9
+Personal,Taylortown,,6.24,Meeting,5.0,36.86,3,Card,Premium,Unknown,2020-12-29,2020,December,Tuesday,29
+Business,East Samanthafurt,South Amandafurt,1.17,Meeting,4.8,30.1,4,Cash,Premium,One-Way,2025-02-19,2025,February,Wednesday,19
+Business,Lake Jonathanhaven,Lake Jonathanhaven,24.26,,4.9,33.56,1,Uber Credit,Premium,Round-Trip,2022-08-11,2022,August,Thursday,11
+Personal,Irwinshire,Irwinshire,34.09,Customer Visit,4.2,39.52,3,Uber Credit,Economy,Round-Trip,2020-01-24,2020,January,Friday,24
+Personal,East Luke,East Luke,1.01,Commute,4.1,20.03,3,Uber Credit,Economy,Round-Trip,2023-07-24,2023,July,Monday,24
+Personal,Brandyhaven,South Jaredstad,20.63,Customer Visit,4.5,15.82,1,Card,Economy,One-Way,2022-05-19,2022,May,Thursday,19
+Business,West Nancy,Reyesberg,8.49,Meeting,4.4,8.72,4,Cash,Economy,One-Way,2023-07-15,2023,July,Saturday,15
+Personal,Port Jacobbury,Perezhaven,10.13,Meeting,4.3,12.62,3,Cash,SUV,One-Way,2022-10-03,2022,October,Monday,3
+Personal,Davenportmouth,Davenportmouth,9.08,Customer Visit,4.8,69.24,2,Cash,Economy,Round-Trip,2020-10-11,2020,October,Sunday,11
+Personal,Lake Barbara,Lake Barbara,6.36,Commute,5.0,43.67,3,Uber Credit,Economy,Round-Trip,2025-02-13,2025,February,Thursday,13
+Personal,Greenburgh,Greenburgh,15.49,Commute,4.5,47.3,2,Cash,Economy,Round-Trip,2023-10-17,2023,October,Tuesday,17
+Personal,New Laurachester,New Laurachester,6.69,Meeting,5.2,5.16,4,Cash,Economy,Round-Trip,2025-02-11,2025,February,Tuesday,11
+Personal,Willisfurt,Willisfurt,17.7,Commute,3.9,32.23,3,Cash,Premium,Round-Trip,2022-02-17,2022,February,Thursday,17
+Personal,East Ronaldtown,East Ronaldtown,14.5,Commute,4.4,33.21,1,Uber Credit,Premium,Round-Trip,2021-12-30,2021,December,Thursday,30
+Business,Ramirezside,Ramirezside,12.61,Errand/Supplies,4.1,33.23,1,Uber Credit,Premium,Round-Trip,2021-11-20,2021,November,Saturday,20
+Personal,South Louishaven,South Louishaven,5.92,,3.6,21.18,3,Card,Premium,Round-Trip,2024-10-31,2024,October,Thursday,31
+Business,West Sherry,West Sherry,9.23,Meal/Entertain,4.5,23.12,4,Card,Economy,Round-Trip,2024-01-01,2024,January,Monday,1
+Business,Holmesmouth,Antoniofurt,22.55,Customer Visit,4.4,29.92,4,Card,SUV,One-Way,2021-03-16,2021,March,Tuesday,16
+Personal,Waltersstad,Waltersstad,20.01,Meeting,5.3,26.29,1,Card,Premium,Round-Trip,2020-11-18,2020,November,Wednesday,18
+Business,New Daniel,New Daniel,5.22,Commute,4.8,8.29,3,Cash,Economy,Round-Trip,2025-02-23,2025,February,Sunday,23
+Business,Elliottberg,Elliottberg,15.99,Meal/Entertain,4.0,21.55,4,Card,Premium,Round-Trip,2021-01-02,2021,January,Saturday,2
+Business,Damonville,Damonville,22.51,Errand/Supplies,5.4,12.23,1,Card,Premium,Round-Trip,2021-11-17,2021,November,Wednesday,17
+Business,West Adamton,Timothyhaven,-1.69,Commute,5.1,27.63,2,Card,Premium,One-Way,2023-03-07,2023,March,Tuesday,7
+Business,Joshuaville,Joshuaville,20.43,Customer Visit,4.8,69.78,3,Uber Credit,Premium,Round-Trip,2023-09-19,2023,September,Tuesday,19
+Business,West Cindy,West Cindy,8.37,Errand/Supplies,4.4,30.51,2,Cash,Economy,Round-Trip,2022-06-18,2022,June,Saturday,18
+Business,Lambertton,Port Alison,20.71,Meeting,4.0,20.3,2,Uber Credit,Economy,One-Way,2022-12-28,2022,December,Wednesday,28
+Business,Obrienfort,Obrienfort,7.37,Commute,4.3,38.83,4,Cash,Economy,Round-Trip,2022-03-01,2022,March,Tuesday,1
+Business,Macdonaldview,Macdonaldview,-3.05,Meal/Entertain,5.0,32.24,4,Card,SUV,Round-Trip,2021-01-09,2021,January,Saturday,9
+Business,Port John,Lake Caleb,-1.28,,5.4,31.3,4,Uber Credit,Premium,One-Way,2021-11-28,2021,November,Sunday,28
+Personal,North Courtney,North Courtney,15.48,Commute,5.3,34.1,3,Cash,SUV,Round-Trip,2020-12-16,2020,December,Wednesday,16
+Business,Rebeccafort,Rebeccafort,17.6,Commute,4.3,55.85,2,Uber Credit,SUV,Round-Trip,2021-01-11,2021,January,Monday,11
+Business,Kirbystad,Lake Kimberlybury,5.96,Commute,3.9,8.04,3,Uber Credit,SUV,One-Way,2020-08-29,2020,August,Saturday,29
+Personal,Port Alison,Port Alison,21.39,Commute,4.6,32.1,4,Cash,Economy,Round-Trip,2023-10-28,2023,October,Saturday,28
+Personal,West Terri,West Terri,-1.62,Commute,3.6,11.1,2,Cash,Economy,Round-Trip,2024-06-15,2024,June,Saturday,15
+Personal,Mooreshire,South Bethany,14.34,Meeting,4.7,33.33,3,Card,Premium,One-Way,2022-08-19,2022,August,Friday,19
+Business,Fordton,Fordton,2.89,Customer Visit,4.4,11.22,3,Card,Economy,Round-Trip,2021-06-01,2021,June,Tuesday,1
+Business,Castroton,Castroton,8.48,Customer Visit,4.3,18.74,1,Card,Economy,Round-Trip,2021-05-07,2021,May,Friday,7
+Business,Medinaburgh,North Mark,15.47,Meeting,3.7,20.57,3,Uber Credit,SUV,One-Way,2021-09-15,2021,September,Wednesday,15
+Personal,Port Nicole,Port Nicole,6.4,Customer Visit,4.8,39.64,4,Card,Economy,Round-Trip,2024-06-14,2024,June,Friday,14
+Business,Brandonville,Brandonville,11.15,Meal/Entertain,4.2,38.78,3,Cash,Premium,Round-Trip,2024-10-22,2024,October,Tuesday,22
+Business,East Anthony,East Anthony,25.06,,3.9,6.31,2,Uber Credit,Premium,Round-Trip,2022-11-15,2022,November,Tuesday,15
+Personal,Rodriguezberg,Rodriguezberg,9.23,Meeting,3.1,25.82,3,Cash,SUV,Round-Trip,2020-02-17,2020,February,Monday,17
+Personal,Karifort,Karifort,23.36,Meal/Entertain,4.5,14.36,1,Uber Credit,Economy,Round-Trip,2025-02-13,2025,February,Thursday,13
+Personal,Tracytown,Tracytown,3.7,Meeting,5.4,6.12,2,Cash,SUV,Round-Trip,2023-09-18,2023,September,Monday,18
+Business,North Matthewmouth,North Matthewmouth,20.3,Meal/Entertain,5.3,21.74,2,Cash,Premium,Round-Trip,2023-11-29,2023,November,Wednesday,29
+Business,Davidville,Loriberg,29.42,Errand/Supplies,4.3,20.37,1,Card,Premium,One-Way,2023-02-07,2023,February,Tuesday,7
+Business,Frostland,Frostland,-9.72,Meeting,4.2,61.4,4,Card,Economy,Round-Trip,2020-11-26,2020,November,Thursday,26
+Business,Krausemouth,Fryeland,7.03,Commute,4.7,31.49,2,Uber Credit,Economy,One-Way,2023-12-02,2023,December,Saturday,2
+Personal,Leeside,Leeside,20.77,Meal/Entertain,4.0,4.34,4,Card,Premium,Round-Trip,2024-12-27,2024,December,Friday,27
+Business,Port William,Port William,12.97,Errand/Supplies,4.7,16.53,2,Uber Credit,Premium,Round-Trip,2020-03-19,2020,March,Thursday,19
+Business,Whitefort,Whitefort,18.71,Meeting,4.9,40.32,2,Cash,SUV,Round-Trip,2022-02-23,2022,February,Wednesday,23
+Personal,Loganchester,Loganchester,8.96,Meal/Entertain,5.1,56.33,4,Uber Credit,SUV,Round-Trip,2024-10-25,2024,October,Friday,25
+Personal,Port Ruben,Schneiderburgh,15.87,Commute,4.4,1.21,2,Cash,SUV,One-Way,2023-11-08,2023,November,Wednesday,8
+Personal,Lake Carolhaven,Lake Carolhaven,13.44,Meal/Entertain,4.4,3.2,4,Cash,Economy,Round-Trip,2021-04-07,2021,April,Wednesday,7
+Business,Lake Tony,,26.68,Errand/Supplies,4.1,53.06,1,Cash,Economy,Unknown,2020-08-14,2020,August,Friday,14
+Personal,Gamblebury,Gamblebury,17.54,Customer Visit,4.1,30.84,4,Uber Credit,Premium,Round-Trip,2024-03-11,2024,March,Monday,11
+Business,Collinsbury,Collinsbury,18.38,Customer Visit,4.4,11.98,1,Uber Credit,Economy,Round-Trip,2022-10-14,2022,October,Friday,14
+Personal,Nelsonland,Nelsonland,10.88,Errand/Supplies,4.7,33.02,2,Card,Economy,Round-Trip,2024-02-12,2024,February,Monday,12
+Personal,Michaelbury,Lake Cassandraburgh,10.12,Errand/Supplies,5.0,14.54,4,Card,Economy,One-Way,2023-09-07,2023,September,Thursday,7
+Business,Douglasshire,Douglasshire,10.67,Meeting,4.1,25.05,2,Cash,Economy,Round-Trip,2020-09-26,2020,September,Saturday,26
+Personal,Frenchbury,Frenchbury,18.94,Customer Visit,5.2,29.92,4,Cash,Economy,Round-Trip,2020-01-05,2020,January,Sunday,5
+Personal,New Jennifer,New Jennifer,10.79,Meeting,4.4,38.86,1,Uber Credit,Economy,Round-Trip,2024-02-23,2024,February,Friday,23
+Personal,Schneiderburgh,Schneiderburgh,17.9,Meal/Entertain,4.5,9.79,1,Card,Economy,Round-Trip,2024-01-18,2024,January,Thursday,18
+Business,East Shannon,East Shannon,35.75,Errand/Supplies,4.1,26.29,4,Uber Credit,Economy,Round-Trip,2024-03-03,2024,March,Sunday,3
+Personal,Walkertown,Walkertown,23.71,Meeting,3.3,11.12,1,Uber Credit,Premium,Round-Trip,2022-01-09,2022,January,Sunday,9
+Business,Josephton,Josephton,11.74,Errand/Supplies,4.9,28.83,2,Uber Credit,Premium,Round-Trip,2024-02-26,2024,February,Monday,26
+Personal,Jacksonbury,Port Jonathanfort,27.01,Meeting,4.9,11.57,2,Cash,SUV,One-Way,2024-12-03,2024,December,Tuesday,3
+Personal,Jimenezmouth,Williamsstad,10.92,Meal/Entertain,4.4,18.88,3,Cash,SUV,One-Way,2020-08-10,2020,August,Monday,10
+Personal,North Davidton,North Davidton,-5.38,Meal/Entertain,4.5,10.06,1,Card,SUV,Round-Trip,2021-04-23,2021,April,Friday,23
+Personal,Thompsonview,Thompsonview,4.92,Commute,4.8,34.77,2,Cash,Economy,Round-Trip,2022-06-16,2022,June,Thursday,16
+Personal,Grayport,Grayport,-3.71,Customer Visit,3.7,37.88,4,Cash,SUV,Round-Trip,2025-02-19,2025,February,Wednesday,19
+Personal,Fischerton,West Joycechester,11.48,Commute,4.2,21.48,1,Uber Credit,SUV,One-Way,2021-01-31,2021,January,Sunday,31
+Business,Benjaminton,Benjaminton,15.18,Customer Visit,4.9,25.57,2,Cash,Premium,Round-Trip,2020-02-22,2020,February,Saturday,22
+Business,Sancheztown,Sancheztown,31.76,Meal/Entertain,3.9,3.27,1,Uber Credit,Economy,Round-Trip,2025-03-18,2025,March,Tuesday,18
+Personal,New Cheryl,New Cheryl,18.27,Meeting,4.6,20.5,4,Card,Economy,Round-Trip,2021-09-21,2021,September,Tuesday,21
+Personal,Port Heather,Port Heather,12.81,Errand/Supplies,3.8,24.25,2,Cash,Economy,Round-Trip,2021-10-14,2021,October,Thursday,14
+Business,Jamesberg,Jamesberg,23.29,Meal/Entertain,4.7,64.31,3,Card,Economy,Round-Trip,2024-09-20,2024,September,Friday,20
+Personal,South Vincent,South Vincent,-7.11,Meal/Entertain,4.5,83.2,3,Cash,SUV,Round-Trip,2022-03-24,2022,March,Thursday,24
+Personal,Kimberlychester,Johnborough,17.36,Meeting,3.7,46.96,1,Uber Credit,Premium,One-Way,2020-04-01,2020,April,Wednesday,1
+Personal,New Nathanielborough,New Nathanielborough,22.71,Meal/Entertain,5.1,39.95,4,Cash,Economy,Round-Trip,2024-05-06,2024,May,Monday,6
+Business,East Lisa,East Lisa,0.21,Meal/Entertain,4.1,29.21,2,Uber Credit,Economy,Round-Trip,2024-01-03,2024,January,Wednesday,3
+Personal,Lindsayside,Lindsayside,26.44,Meeting,4.1,51.38,4,Card,Premium,Round-Trip,2020-01-19,2020,January,Sunday,19
+Personal,Ricechester,Ricechester,18.38,Meal/Entertain,4.6,305.79999999999995,2,Uber Credit,Economy,Round-Trip,2024-09-15,2024,September,Sunday,15
+Business,Cynthiaport,South Josephburgh,10.85,Customer Visit,5.1,30.84,1,Uber Credit,Economy,One-Way,2023-03-07,2023,March,Tuesday,7
+Personal,Lake Justinstad,Lake Justinstad,21.33,Customer Visit,4.0,24.2,2,Card,Premium,Round-Trip,2022-03-03,2022,March,Thursday,3
+Business,Lake Brianfurt,Lake Brianfurt,37.71,Customer Visit,4.5,43.35,4,Card,Economy,Round-Trip,2024-05-05,2024,May,Sunday,5
+Personal,Fitzgeraldborough,Fitzgeraldborough,16.82,Customer Visit,4.7,41.45,4,Uber Credit,Economy,Round-Trip,2022-03-14,2022,March,Monday,14
+Personal,Clintonmouth,West Robertborough,17.48,,4.8,15.61,1,Cash,SUV,One-Way,2023-12-20,2023,December,Wednesday,20
+Personal,Taylorchester,North Scott,10.41,,4.6,5.21,4,Uber Credit,Premium,One-Way,2020-07-08,2020,July,Wednesday,8
+Personal,North Mandy,North Mandy,6.5,Customer Visit,4.3,219.6,2,Uber Credit,SUV,Round-Trip,2024-12-11,2024,December,Wednesday,11
+Personal,Brownborough,North Dannyview,23.3,Customer Visit,4.1,13.0,1,Cash,Premium,One-Way,2021-07-31,2021,July,Saturday,31
+Business,South Rachel,Spencerberg,6.44,Meal/Entertain,4.5,24.05,2,Uber Credit,Premium,One-Way,2025-01-20,2025,January,Monday,20
+Business,Tarabury,South Curtis,15.72,Commute,4.0,43.56,4,Uber Credit,Economy,One-Way,2021-03-24,2021,March,Wednesday,24
+Business,South Dawn,South Dawn,10.22,Meal/Entertain,3.0,18.14,1,Card,Premium,Round-Trip,2021-11-10,2021,November,Wednesday,10
+Business,East Evelyn,East Evelyn,19.79,Meeting,4.7,24.36,2,Cash,SUV,Round-Trip,2023-06-27,2023,June,Tuesday,27
+Personal,East Jessicabury,East Jessicabury,18.34,Customer Visit,5.0,25.87,4,Cash,Premium,Round-Trip,2024-06-14,2024,June,Friday,14
+Personal,North Raymond,North Raymond,25.38,Meeting,3.3,37.73,4,Card,Economy,Round-Trip,2020-02-24,2020,February,Monday,24
+Business,Hopkinsview,,9.9,Customer Visit,4.0,8.7,3,Cash,Premium,Unknown,2021-07-23,2021,July,Friday,23
+Personal,Tarabury,Tarabury,12.3,Commute,4.8,15.9,4,Cash,Economy,Round-Trip,2024-05-02,2024,May,Thursday,2
+Personal,Nathanland,Knighthaven,5.21,Errand/Supplies,5.5,28.17,2,Card,Economy,One-Way,2020-02-29,2020,February,Saturday,29
+Personal,Rodriguezberg,Rodriguezberg,10.56,Commute,4.5,43.0,1,Uber Credit,Premium,Round-Trip,2022-09-21,2022,September,Wednesday,21
+Business,Marioburgh,Marioburgh,18.77,Meal/Entertain,4.1,17.62,3,Uber Credit,Premium,Round-Trip,2020-09-01,2020,September,Tuesday,1
+Business,Cooperview,New Jamesshire,22.57,Meal/Entertain,4.4,3.15,4,Uber Credit,Premium,One-Way,2021-08-18,2021,August,Wednesday,18
+Personal,New Dylanburgh,New Dylanburgh,5.78,Meeting,5.2,34.3,4,Card,Economy,Round-Trip,2022-04-19,2022,April,Tuesday,19
+Business,North Ashleyborough,West Stacey,23.7,Meeting,4.2,15.47,4,Card,Economy,One-Way,2024-11-07,2024,November,Thursday,7
+Personal,East Beverlyport,East Beverlyport,28.56,Meal/Entertain,4.1,7.16,2,Cash,SUV,Round-Trip,2021-11-29,2021,November,Monday,29
+Business,Michelleberg,Michelleberg,19.13,Meal/Entertain,4.3,15.63,3,Uber Credit,SUV,Round-Trip,2024-06-04,2024,June,Tuesday,4
+Personal,Willisview,Willisview,33.77,Meal/Entertain,4.0,22.23,2,Card,SUV,Round-Trip,2024-02-02,2024,February,Friday,2
+Personal,Brandonville,Port Adamtown,7.26,Customer Visit,4.6,15.93,3,Card,Economy,One-Way,2021-12-29,2021,December,Wednesday,29
+Personal,Lake Randallmouth,Lake Randallmouth,2.55,Commute,5.3,8.08,1,Card,SUV,Round-Trip,2023-11-11,2023,November,Saturday,11
+Personal,Andersonport,Andersonport,-2.79,Customer Visit,4.7,38.46,2,Cash,Premium,Round-Trip,2020-12-05,2020,December,Saturday,5
+Personal,Torresville,Torresville,29.96,Errand/Supplies,4.4,44.12,2,Card,Premium,Round-Trip,2021-05-28,2021,May,Friday,28
+Personal,Lynnport,Lynnport,21.54,Customer Visit,4.4,34.77,1,Uber Credit,Premium,Round-Trip,2021-06-15,2021,June,Tuesday,15
+Personal,Meganstad,Meganstad,14.44,Meal/Entertain,3.7,7.93,3,Card,SUV,Round-Trip,2024-08-03,2024,August,Saturday,3
+Personal,East Sarahton,East Sarahton,17.8,Customer Visit,4.9,21.98,4,Card,Premium,Round-Trip,2020-01-02,2020,January,Thursday,2
+Personal,East Sarahton,East Sarahton,3.75,Meeting,4.5,24.9,1,Cash,Economy,Round-Trip,2022-04-13,2022,April,Wednesday,13
+Personal,Rebeccatown,Stevenberg,39.46,Meal/Entertain,4.4,33.98,4,Uber Credit,Economy,One-Way,2020-02-08,2020,February,Saturday,8
+Personal,Saraport,Saraport,16.29,Commute,6.1,35.03,4,Uber Credit,Premium,Round-Trip,2022-08-25,2022,August,Thursday,25
+Business,Lake Matthewburgh,Lake Matthewburgh,16.09,Customer Visit,4.6,13.99,1,Uber Credit,Premium,Round-Trip,2022-06-29,2022,June,Wednesday,29
+Business,Carterstad,Carterstad,22.26,Meal/Entertain,4.1,26.23,3,Card,Economy,Round-Trip,2021-04-26,2021,April,Monday,26
+Business,Jessicaborough,Nicolehaven,19.81,Meeting,4.3,31.86,4,Cash,Premium,One-Way,2024-08-25,2024,August,Sunday,25
+Personal,Seanburgh,Seanburgh,17.24,Meeting,5.1,46.84,1,Uber Credit,Economy,Round-Trip,2021-03-10,2021,March,Wednesday,10
+Business,Hopkinsview,Hopkinsview,7.1,,,35.57,2,Card,SUV,Round-Trip,2024-04-24,2024,April,Wednesday,24
+Business,South Amanda,South Amanda,19.71,Meal/Entertain,3.8,36.84,2,Cash,SUV,Round-Trip,2022-05-14,2022,May,Saturday,14
+Business,Gavinfurt,Gavinfurt,33.82,Commute,5.0,26.26,2,Uber Credit,Economy,Round-Trip,2023-01-08,2023,January,Sunday,8
+Business,Cannonview,,284.5,Errand/Supplies,4.2,46.16,1,Cash,SUV,Unknown,2023-07-12,2023,July,Wednesday,12
+Personal,South Moniquemouth,South Moniquemouth,30.93,Meeting,5.4,31.15,2,Cash,SUV,Round-Trip,2020-10-20,2020,October,Tuesday,20
+Personal,West Jonathan,West Jonathan,9.89,Errand/Supplies,5.0,12.08,4,Card,Economy,Round-Trip,2020-01-10,2020,January,Friday,10
+Personal,Robertchester,Faulknermouth,5.1,Commute,4.3,46.05,2,Cash,Premium,One-Way,2021-03-02,2021,March,Tuesday,2
+Business,Michaelview,Michaelview,13.74,Customer Visit,5.1,35.47,2,Card,SUV,Round-Trip,2021-01-12,2021,January,Tuesday,12
+Business,Anthonyland,Anthonyland,15.56,Meeting,4.5,18.35,4,Uber Credit,Premium,Round-Trip,2021-04-21,2021,April,Wednesday,21
+Personal,Holtside,Holtside,25.94,Errand/Supplies,4.9,17.81,2,Uber Credit,Premium,Round-Trip,2025-01-10,2025,January,Friday,10
+Business,South Katelynmouth,,-1.92,Meeting,4.7,29.45,4,Cash,SUV,Unknown,2021-02-05,2021,February,Friday,5
+Personal,Maryview,Maryview,30.3,Errand/Supplies,4.1,31.95,2,Uber Credit,Premium,Round-Trip,2020-09-28,2020,September,Monday,28
+Business,Josebury,Josebury,13.42,Meal/Entertain,4.2,27.96,4,Card,Premium,Round-Trip,2020-10-12,2020,October,Monday,12
+Personal,Dorseystad,Dorseystad,10.73,Meal/Entertain,5.0,29.67,2,Card,SUV,Round-Trip,2022-07-25,2022,July,Monday,25
+Business,Simsside,Josephtown,4.88,Customer Visit,4.3,50.5,4,Card,SUV,One-Way,2022-07-05,2022,July,Tuesday,5
+Business,Sarahview,Sarahview,-1.55,Commute,4.3,41.07,1,Cash,Premium,Round-Trip,2021-09-15,2021,September,Wednesday,15
+Personal,Lake Pamela,Lake Kristine,23.23,Meeting,4.0,27.86,4,Cash,Premium,One-Way,2022-10-01,2022,October,Saturday,1
+Business,West Karenview,Lopezstad,15.73,Commute,4.7,39.12,2,Cash,Premium,One-Way,2020-06-15,2020,June,Monday,15
+Business,Harmonland,North Kathrynton,2.1,Errand/Supplies,5.5,9.51,2,Card,Economy,One-Way,2021-09-15,2021,September,Wednesday,15
+Personal,Collinsbury,Collinsbury,2.05,Customer Visit,4.0,30.97,3,Card,Economy,Round-Trip,2021-08-28,2021,August,Saturday,28
+Business,South Jonathan,South Jonathan,11.64,Meal/Entertain,,52.14,4,Card,Premium,Round-Trip,2021-02-02,2021,February,Tuesday,2
+Personal,Port Stefanieside,Janetport,31.69,Meal/Entertain,5.2,21.73,1,Card,SUV,One-Way,2025-03-01,2025,March,Saturday,1
+Business,New Daniel,New Daniel,12.4,Customer Visit,4.5,12.29,4,Cash,Economy,Round-Trip,2022-11-28,2022,November,Monday,28
+Business,New Emily,New Emily,-0.3,Meeting,4.7,15.22,4,Cash,Economy,Round-Trip,2024-04-16,2024,April,Tuesday,16
+Personal,South Carlos,South Carlos,12.54,Commute,4.0,8.66,1,Cash,Premium,Round-Trip,2021-05-15,2021,May,Saturday,15
+Personal,Nicoleland,Mckinneychester,12.27,Errand/Supplies,4.7,13.23,4,Cash,Economy,One-Way,2021-11-08,2021,November,Monday,8
+Personal,Lake Pamela,Lake Danielleport,-11.97,Commute,4.4,19.44,1,Card,Premium,One-Way,2022-04-19,2022,April,Tuesday,19
+Personal,Port Danielville,,14.46,Meal/Entertain,5.0,3.92,1,Card,SUV,Unknown,2023-05-10,2023,May,Wednesday,10
+Personal,Charlesbury,Charlesbury,12.69,Customer Visit,5.1,25.23,4,Uber Credit,Premium,Round-Trip,2020-01-20,2020,January,Monday,20
+Business,Davisburgh,Stephenburgh,21.96,Meal/Entertain,,38.53,4,Uber Credit,SUV,One-Way,2021-09-26,2021,September,Sunday,26
+Business,Lake Marthaburgh,North Benjamin,33.49,Meal/Entertain,4.8,11.38,2,Uber Credit,Economy,One-Way,2022-06-02,2022,June,Thursday,2
+Personal,North Brittneyland,North Brittneyland,26.27,Errand/Supplies,4.7,47.79,2,Card,Economy,Round-Trip,2024-12-11,2024,December,Wednesday,11
+Personal,East Shannon,East Shannon,12.31,Meeting,4.6,32.66,3,Cash,Economy,Round-Trip,2020-12-21,2020,December,Monday,21
+Business,Shannonfort,Taylorland,3.93,Meeting,4.3,40.46,3,Cash,Economy,One-Way,2021-08-20,2021,August,Friday,20
+Business,South Carlos,Smithburgh,40.73,Errand/Supplies,4.7,15.13,4,Cash,SUV,One-Way,2022-10-29,2022,October,Saturday,29
+Personal,Port Jasonland,Port Jasonland,15.59,Customer Visit,4.4,37.82,1,Card,Economy,Round-Trip,2021-01-03,2021,January,Sunday,3
+Personal,Brownfort,Lake Sara,15.14,Commute,4.6,8.62,3,Uber Credit,Premium,One-Way,2024-11-01,2024,November,Friday,1
+Business,New Jesusburgh,New Jesusburgh,14.76,Customer Visit,5.2,38.35,4,Cash,SUV,Round-Trip,2024-11-19,2024,November,Tuesday,19
+Business,Taylorchester,Taylorchester,16.98,Commute,4.0,27.58,3,Uber Credit,SUV,Round-Trip,2024-11-01,2024,November,Friday,1
+Business,Josephport,Josephport,13.56,Meeting,5.1,33.3,1,Uber Credit,Economy,Round-Trip,2022-11-28,2022,November,Monday,28
+Business,Gonzalezchester,Gonzalezchester,9.26,Meal/Entertain,5.2,7.37,4,Card,Economy,Round-Trip,2022-06-15,2022,June,Wednesday,15
+Personal,Jessicaland,Jessicaland,9.53,Meal/Entertain,4.4,11.57,1,Card,SUV,Round-Trip,2025-02-07,2025,February,Friday,7
+Business,Robertberg,Robertberg,14.67,Customer Visit,3.4,33.96,4,Cash,Premium,Round-Trip,2024-12-24,2024,December,Tuesday,24
+Business,Dorothytown,,9.57,Errand/Supplies,,10.77,3,Card,Premium,Unknown,2024-12-27,2024,December,Friday,27
+Business,Michaeltown,Michaeltown,7.87,Commute,5.1,31.95,2,Card,Economy,Round-Trip,2024-01-12,2024,January,Friday,12
+Personal,Rayville,Rayville,16.06,Meal/Entertain,4.5,4.49,3,Card,Economy,Round-Trip,2021-08-26,2021,August,Thursday,26
+Business,New Andreaville,New Andreaville,12.45,Customer Visit,4.0,37.72,3,Cash,Economy,Round-Trip,2025-01-29,2025,January,Wednesday,29
+Personal,Walkerside,North Robertberg,30.04,Errand/Supplies,4.2,6.51,2,Uber Credit,SUV,One-Way,2023-12-16,2023,December,Saturday,16
+Personal,Port Timothyport,,-11.51,Meeting,4.9,33.28,2,Uber Credit,Premium,Unknown,2023-11-30,2023,November,Thursday,30
+Personal,Englishberg,Englishberg,25.92,Errand/Supplies,4.8,34.38,4,Cash,SUV,Round-Trip,2021-02-14,2021,February,Sunday,14
+Personal,South Brittany,South Brittany,27.46,Meeting,4.4,145.5,4,Uber Credit,SUV,Round-Trip,2023-04-18,2023,April,Tuesday,18
+Personal,South Rachel,Theresaborough,-5.73,Customer Visit,4.3,33.73,1,Uber Credit,Premium,One-Way,2020-08-24,2020,August,Monday,24
+Personal,Cannonview,Cannonview,11.57,Errand/Supplies,4.3,28.91,1,Cash,SUV,Round-Trip,2024-01-26,2024,January,Friday,26
+Business,East Allen,Bergshire,11.29,Customer Visit,4.0,16.92,3,Uber Credit,Economy,One-Way,2021-11-03,2021,November,Wednesday,3
+Business,Victorton,Victorton,0.92,Meeting,5.3,9.87,2,Card,SUV,Round-Trip,2020-05-28,2020,May,Thursday,28
+Business,Kristiebury,Kristiebury,7.22,Meal/Entertain,4.3,4.44,1,Cash,SUV,Round-Trip,2022-03-28,2022,March,Monday,28
+Business,Woodschester,Woodschester,3.89,Meal/Entertain,5.1,30.24,3,Cash,Premium,Round-Trip,2023-03-02,2023,March,Thursday,2
+Personal,Johnfurt,South Daniel,32.52,Meeting,5.3,1.53,2,Card,SUV,One-Way,2023-01-19,2023,January,Thursday,19
+Business,Lake Sabrina,Benjaminshire,24.36,Commute,5.0,26.43,4,Card,SUV,One-Way,2020-07-19,2020,July,Sunday,19
+Business,New Johnland,New Johnland,277.2,Commute,4.3,21.05,3,Card,Economy,Round-Trip,2021-09-08,2021,September,Wednesday,8
+Business,Port Aaronchester,Port Aaronchester,22.22,Meal/Entertain,4.7,35.19,4,Card,SUV,Round-Trip,2021-12-26,2021,December,Sunday,26
+Business,Lake Austinstad,Kathrynport,3.71,Meal/Entertain,4.5,20.47,1,Cash,Economy,One-Way,2022-03-29,2022,March,Tuesday,29
+Business,Williamsport,Codyburgh,9.75,Errand/Supplies,4.0,20.06,1,Cash,Premium,One-Way,2024-09-11,2024,September,Wednesday,11
+Business,Sherryberg,Zacharybury,19.89,Errand/Supplies,4.7,35.98,2,Cash,SUV,One-Way,2020-07-01,2020,July,Wednesday,1
+Business,East Jennifer,East Jennifer,2.78,Meal/Entertain,3.9,30.03,3,Card,Premium,Round-Trip,2022-03-15,2022,March,Tuesday,15
+Personal,East Paulport,East Paulport,22.13,Commute,5.1,29.74,4,Card,Economy,Round-Trip,2024-03-16,2024,March,Saturday,16
+Personal,East Scott,East Scott,12.6,Errand/Supplies,4.3,32.04,2,Card,Premium,Round-Trip,2022-08-05,2022,August,Friday,5
+Personal,New Connie,New Connie,11.25,Meeting,,1.97,1,Card,Economy,Round-Trip,2021-10-10,2021,October,Sunday,10
+Personal,Juliehaven,Juliehaven,22.11,Errand/Supplies,,36.35,1,Card,Economy,Round-Trip,2024-02-17,2024,February,Saturday,17
+Business,Lake Loriberg,Lake Loriberg,19.44,Errand/Supplies,4.4,34.19,3,Cash,Economy,Round-Trip,2021-03-12,2021,March,Friday,12
+Business,Campbellfurt,Campbellfurt,11.39,Errand/Supplies,4.8,9.75,4,Card,Economy,Round-Trip,2024-06-26,2024,June,Wednesday,26
+Personal,Taylorfurt,Taylorfurt,26.59,Customer Visit,4.3,21.34,3,Card,SUV,Round-Trip,2021-08-05,2021,August,Thursday,5
+Personal,Taylorland,Taylorland,4.19,Meeting,4.9,24.41,4,Cash,Economy,Round-Trip,2020-10-27,2020,October,Tuesday,27
+Personal,Seanport,Seanport,21.16,Meal/Entertain,3.8,22.98,4,Uber Credit,Economy,Round-Trip,2020-07-01,2020,July,Wednesday,1
+Business,Carpenterside,South Stephanie,20.93,Commute,4.6,30.01,3,Uber Credit,SUV,One-Way,2020-03-07,2020,March,Saturday,7
+Business,Mooreburgh,New Jaimechester,11.9,Commute,5.5,46.47,2,Card,Premium,One-Way,2024-01-09,2024,January,Tuesday,9
+Personal,West Jenniferside,New Emilyburgh,18.26,,4.0,41.23,3,Uber Credit,Economy,One-Way,2020-12-10,2020,December,Thursday,10
+Business,Robertberg,Robertberg,2.49,Customer Visit,4.2,5.32,3,Uber Credit,Premium,Round-Trip,2024-03-30,2024,March,Saturday,30
+Personal,Blankenshipfurt,Blankenshipfurt,24.24,Commute,4.8,34.33,1,Cash,SUV,Round-Trip,2024-10-30,2024,October,Wednesday,30
+Business,North Brian,North Brian,13.15,Errand/Supplies,4.6,44.93,1,Card,Economy,Round-Trip,2021-12-09,2021,December,Thursday,9
+Business,New Kristin,New Kristin,9.77,Commute,4.7,30.8,3,Cash,Economy,Round-Trip,2023-12-12,2023,December,Tuesday,12
+Business,Holmesmouth,Holmesmouth,25.49,Meeting,,41.36,3,Cash,Premium,Round-Trip,2023-02-05,2023,February,Sunday,5
+Personal,Reneeside,Trujilloburgh,7.96,,,55.18,1,Card,SUV,One-Way,2023-12-16,2023,December,Saturday,16
+Business,Hendersonhaven,Hendersonhaven,0.92,Meal/Entertain,5.1,40.36,4,Cash,Economy,Round-Trip,2022-12-14,2022,December,Wednesday,14
+Business,Braunshire,Frederickland,-0.57,Customer Visit,4.7,28.74,3,Card,Premium,One-Way,2024-08-26,2024,August,Monday,26
+Business,West Troyberg,North Nicole,21.06,Customer Visit,4.4,40.68,2,Card,Economy,One-Way,2021-09-26,2021,September,Sunday,26
+Business,North Ashleyborough,North Ashleyborough,2.2,Commute,4.8,27.17,2,Uber Credit,Economy,Round-Trip,2024-05-13,2024,May,Monday,13
+Personal,East Melanieville,East Melanieville,32.55,Customer Visit,5.4,25.36,2,Card,Economy,Round-Trip,2022-02-21,2022,February,Monday,21
+Personal,Marioburgh,East Russell,-5.82,Customer Visit,4.4,19.73,3,Card,SUV,One-Way,2024-08-25,2024,August,Sunday,25
+Personal,Port Danielville,Joannahaven,31.96,Commute,4.0,48.45,4,Card,SUV,One-Way,2024-02-25,2024,February,Sunday,25
+Business,South Susan,South Susan,171.1,Meeting,5.1,12.72,4,Card,Economy,Round-Trip,2020-10-15,2020,October,Thursday,15
+Personal,Lake Christophertown,Lake Christophertown,14.03,Errand/Supplies,4.4,47.99,1,Card,Economy,Round-Trip,2023-08-15,2023,August,Tuesday,15
+Personal,Mitchellview,Mitchellview,9.55,Meal/Entertain,3.4,32.5,3,Uber Credit,SUV,Round-Trip,2020-10-08,2020,October,Thursday,8
+Personal,Smithburgh,Smithburgh,18.99,Meeting,4.9,4.01,4,Uber Credit,Premium,Round-Trip,2021-02-18,2021,February,Thursday,18
+Personal,Emilystad,Emilystad,14.62,Customer Visit,4.2,30.51,3,Cash,Economy,Round-Trip,2022-02-03,2022,February,Thursday,3
+Personal,South Dale,South Dale,26.03,Customer Visit,4.5,6.5,1,Card,Premium,Round-Trip,2023-03-14,2023,March,Tuesday,14
+Personal,South Matthew,Anthonyfurt,16.14,Commute,4.7,34.38,1,Card,SUV,One-Way,2020-02-05,2020,February,Wednesday,5
+Business,Port Theresashire,Port Theresashire,16.5,Meal/Entertain,4.6,38.28,1,Uber Credit,SUV,Round-Trip,2023-02-25,2023,February,Saturday,25
+Business,Port Martha,Rayville,113.6,Errand/Supplies,4.9,16.11,2,Uber Credit,Premium,One-Way,2024-07-24,2024,July,Wednesday,24
+Personal,North Alexandrachester,North Alexandrachester,14.43,Commute,4.3,26.85,3,Cash,SUV,Round-Trip,2025-03-20,2025,March,Thursday,20
+Personal,Port Jessica,,18.08,Commute,4.8,54.31,1,Card,Economy,Unknown,2021-11-01,2021,November,Monday,1
+Personal,East Benjamin,East Benjamin,-2.1,Errand/Supplies,4.4,17.41,3,Card,Premium,Round-Trip,2024-09-19,2024,September,Thursday,19
+Business,Port Dean,Port Dean,1.52,Errand/Supplies,4.9,9.12,2,Cash,Premium,Round-Trip,2021-09-12,2021,September,Sunday,12
+Business,Joyhaven,Joyhaven,22.43,Customer Visit,4.8,47.22,2,Card,Premium,Round-Trip,2024-12-22,2024,December,Sunday,22
+Business,Ronaldfurt,Ronaldfurt,16.71,Commute,4.0,54.44,1,Card,Economy,Round-Trip,2023-09-03,2023,September,Sunday,3
+Business,Murphyborough,Murphyborough,13.16,Meeting,5.0,25.06,1,Card,Economy,Round-Trip,2022-07-20,2022,July,Wednesday,20
+Personal,Juanmouth,Fryeland,15.18,Meeting,4.2,40.17,4,Uber Credit,SUV,One-Way,2021-06-28,2021,June,Monday,28
+Business,Lake Frankshire,Lake Frankshire,18.48,Commute,4.9,45.12,3,Uber Credit,Premium,Round-Trip,2021-01-18,2021,January,Monday,18
+Business,South Janetside,South Janetside,9.6,Errand/Supplies,4.7,13.86,1,Uber Credit,SUV,Round-Trip,2024-06-23,2024,June,Sunday,23
+Personal,Erinshire,Erinshire,7.22,Meal/Entertain,5.4,17.72,4,Card,Premium,Round-Trip,2021-07-03,2021,July,Saturday,3
+Personal,Riverafurt,Riverafurt,16.96,Errand/Supplies,4.4,43.46,3,Uber Credit,SUV,Round-Trip,2021-12-22,2021,December,Wednesday,22
+Personal,Masonville,Karenview,5.22,Errand/Supplies,4.3,50.28,1,Cash,Premium,One-Way,2024-07-14,2024,July,Sunday,14
+Business,Taylorstad,Taylorstad,19.08,Meal/Entertain,4.5,33.44,4,Card,Economy,Round-Trip,2021-04-08,2021,April,Thursday,8
+Personal,New Nicholas,New Nicholas,-2.03,Errand/Supplies,4.3,11.8,4,Card,SUV,Round-Trip,2021-05-22,2021,May,Saturday,22
+Personal,North Kristina,North Kristina,25.29,Meal/Entertain,4.9,54.81,3,Card,SUV,Round-Trip,2021-11-11,2021,November,Thursday,11
+Business,South Amber,South Amber,19.73,Commute,3.7,17.04,4,Card,SUV,Round-Trip,2022-03-03,2022,March,Thursday,3
+Personal,Aprilville,Aprilville,17.56,Meal/Entertain,4.0,19.97,3,Card,SUV,Round-Trip,2024-05-06,2024,May,Monday,6
+Personal,Lake Jenniferside,Lake Jenniferside,24.83,Meeting,4.0,30.14,3,Cash,Premium,Round-Trip,2024-03-26,2024,March,Tuesday,26
+Personal,Brocktown,Brocktown,31.65,,5.0,48.31,3,Uber Credit,Economy,Round-Trip,2024-02-18,2024,February,Sunday,18
+Personal,Craigborough,Craigborough,25.14,Errand/Supplies,5.4,37.81,2,Cash,SUV,Round-Trip,2020-10-26,2020,October,Monday,26
+Personal,Jeremyview,Jeremyview,-3.41,Commute,4.4,31.22,4,Uber Credit,SUV,Round-Trip,2024-09-27,2024,September,Friday,27
+Business,North David,North David,22.0,,4.4,31.95,3,Uber Credit,Economy,Round-Trip,2022-01-23,2022,January,Sunday,23
+Business,East Ianhaven,East Ianhaven,8.75,Errand/Supplies,4.5,25.65,1,Cash,Premium,Round-Trip,2020-11-13,2020,November,Friday,13
+Personal,North Thomas,North Thomas,15.26,Meal/Entertain,5.1,33.37,2,Uber Credit,Premium,Round-Trip,2020-08-26,2020,August,Wednesday,26
+Personal,Huffmantown,East Melanieville,20.18,Commute,4.0,12.94,2,Uber Credit,SUV,One-Way,2021-06-28,2021,June,Monday,28
+Personal,Patrickton,Patrickton,7.74,Commute,4.6,20.55,4,Cash,SUV,Round-Trip,2024-05-09,2024,May,Thursday,9
+Personal,Juliaberg,Juliaberg,16.87,Meeting,5.0,28.62,3,Uber Credit,Premium,Round-Trip,2020-07-12,2020,July,Sunday,12
+Personal,Bairdchester,Bairdchester,7.45,Commute,4.8,7.73,4,Card,Economy,Round-Trip,2021-04-24,2021,April,Saturday,24
+Business,Tiffanyton,Lake Jessicafort,8.88,Errand/Supplies,4.6,30.79,2,Uber Credit,Economy,One-Way,2021-11-23,2021,November,Tuesday,23
+Personal,North Brittneyland,Stacyshire,0.93,Commute,5.0,21.93,3,Cash,SUV,One-Way,2023-10-04,2023,October,Wednesday,4
+Business,Tarabury,,5.77,Commute,3.1,51.33,1,Card,Economy,Unknown,2024-12-15,2024,December,Sunday,15
+Personal,East Michaelport,East Michaelport,1.48,,4.8,48.6,3,Card,SUV,Round-Trip,2021-07-02,2021,July,Friday,2
+Personal,Hannahmouth,Hannahmouth,5.24,Errand/Supplies,4.2,18.01,2,Uber Credit,SUV,Round-Trip,2021-09-10,2021,September,Friday,10
+Personal,South Staceyville,South Staceyville,25.54,Commute,3.6,22.74,1,Cash,Premium,Round-Trip,2023-01-16,2023,January,Monday,16
+Business,Jaclynfurt,Jaclynfurt,5.51,Commute,4.8,23.89,3,Card,SUV,Round-Trip,2023-07-29,2023,July,Saturday,29
+Personal,Kennethhaven,Kennethhaven,41.32,Meal/Entertain,5.2,18.23,1,Uber Credit,Economy,Round-Trip,2021-03-05,2021,March,Friday,5
+Business,Adamport,Adamport,19.93,Commute,4.4,27.93,1,Card,Economy,Round-Trip,2020-01-29,2020,January,Wednesday,29
+Personal,North Dannyview,North Dannyview,16.85,Meeting,5.0,13.63,2,Cash,SUV,Round-Trip,2022-04-28,2022,April,Thursday,28
+Personal,Lake Elizabeth,Schneiderburgh,6.42,Meeting,5.3,8.04,1,Uber Credit,Premium,One-Way,2021-05-20,2021,May,Thursday,20
+Business,New Hollychester,,22.0,Meeting,5.2,34.34,4,Card,SUV,Unknown,2021-12-25,2021,December,Saturday,25
+Business,North Joseph,Lewisview,9.24,Meeting,5.3,34.44,2,Cash,Economy,One-Way,2020-09-25,2020,September,Friday,25
+Personal,Caitlinstad,Caitlinstad,16.22,Commute,4.9,12.94,4,Card,SUV,Round-Trip,2021-10-27,2021,October,Wednesday,27
+Personal,Lake Michael,Lake Michael,40.6,Meal/Entertain,4.5,38.43,1,Uber Credit,SUV,Round-Trip,2020-05-20,2020,May,Wednesday,20
+Personal,West Russell,West Russell,14.04,Errand/Supplies,3.7,15.53,4,Cash,Economy,Round-Trip,2023-06-15,2023,June,Thursday,15
+Business,Port Maria,,26.49,Commute,4.4,28.8,3,Uber Credit,Premium,Unknown,2022-02-09,2022,February,Wednesday,9
+Business,Port Josephland,Port Josephland,7.97,Customer Visit,4.1,37.31,1,Card,Economy,Round-Trip,2021-08-26,2021,August,Thursday,26
+Personal,New Ashleymouth,New Ashleymouth,14.65,Commute,5.6,24.5,3,Card,Premium,Round-Trip,2022-11-18,2022,November,Friday,18
+Business,West Cynthiachester,,32.71,Meeting,4.4,31.82,4,Cash,SUV,Unknown,2024-07-19,2024,July,Friday,19
+Personal,Victoriaside,Victoriaside,8.73,Customer Visit,4.6,17.25,3,Card,Economy,Round-Trip,2021-01-20,2021,January,Wednesday,20
+Personal,South Cynthiaville,South Cynthiaville,33.12,Commute,4.8,22.05,1,Uber Credit,Economy,Round-Trip,2023-11-17,2023,November,Friday,17
+Personal,Danielsborough,Port Stefanieside,22.08,Meal/Entertain,4.5,21.91,3,Card,Premium,One-Way,2021-07-11,2021,July,Sunday,11
+Business,Alexanderview,Carolfurt,9.38,Meal/Entertain,5.3,13.8,4,Uber Credit,Premium,One-Way,2020-12-19,2020,December,Saturday,19
+Business,South Richardfurt,South Richardfurt,21.32,,4.2,22.35,4,Card,Economy,Round-Trip,2020-07-06,2020,July,Monday,6
+Business,New Karen,,24.73,Errand/Supplies,4.6,1.77,4,Uber Credit,SUV,Unknown,2020-03-03,2020,March,Tuesday,3
+Business,Dunnport,,21.22,Customer Visit,4.1,17.63,1,Uber Credit,Economy,Unknown,2024-09-07,2024,September,Saturday,7
+Personal,Priceshire,Martinezshire,-0.7,Meal/Entertain,3.8,20.73,4,Uber Credit,SUV,One-Way,2021-07-23,2021,July,Friday,23
+Business,South Kevin,South Kevin,7.73,Customer Visit,4.2,21.16,1,Card,SUV,Round-Trip,2023-10-13,2023,October,Friday,13
+Personal,Annbury,Annbury,12.52,Meeting,4.5,21.38,3,Uber Credit,SUV,Round-Trip,2023-12-05,2023,December,Tuesday,5
+Business,Mackenzieside,Mackenzieside,14.26,Meeting,4.3,24.07,4,Cash,SUV,Round-Trip,2021-10-30,2021,October,Saturday,30
+Business,Kennethland,Kennethland,21.21,Errand/Supplies,4.2,32.19,3,Card,Premium,Round-Trip,2022-04-02,2022,April,Saturday,2
+Business,Murraymouth,Davisburgh,167.8,Customer Visit,3.8,38.12,2,Uber Credit,Premium,One-Way,2021-08-16,2021,August,Monday,16
+Personal,Port Jillian,Port Jillian,1.65,Customer Visit,4.5,15.25,3,Uber Credit,Economy,Round-Trip,2020-02-05,2020,February,Wednesday,5
+Business,Grayville,Grayville,18.8,Customer Visit,3.7,6.95,2,Uber Credit,Premium,Round-Trip,2024-04-20,2024,April,Saturday,20
+Business,Fostershire,Fostershire,21.11,Customer Visit,4.9,9.37,3,Uber Credit,Economy,Round-Trip,2020-10-29,2020,October,Thursday,29
+Personal,North Jasonchester,Codyburgh,20.6,Errand/Supplies,4.5,17.69,1,Cash,Economy,One-Way,2022-03-09,2022,March,Wednesday,9
+Personal,Williamsville,Williamsville,25.81,Meal/Entertain,3.8,19.72,3,Cash,SUV,Round-Trip,2020-04-02,2020,April,Thursday,2
+Personal,West Monica,West Monica,23.34,Commute,4.3,13.45,1,Cash,Economy,Round-Trip,2023-03-31,2023,March,Friday,31
+Personal,East Sarahton,East Sarahton,19.59,Errand/Supplies,4.1,5.56,1,Uber Credit,Premium,Round-Trip,2022-01-24,2022,January,Monday,24
+Personal,North Daniel,North Daniel,14.3,Meal/Entertain,4.7,18.16,4,Uber Credit,Premium,Round-Trip,2020-07-05,2020,July,Sunday,5
+Personal,West Jesushaven,West Jesushaven,-1.61,Meal/Entertain,5.2,27.72,1,Card,Economy,Round-Trip,2025-02-17,2025,February,Monday,17
+Business,South Heatherland,Port Conniestad,19.3,Meal/Entertain,3.6,33.93,2,Cash,SUV,One-Way,2020-06-19,2020,June,Friday,19
+Personal,Williamsside,Williamsside,17.08,Customer Visit,4.6,16.64,4,Uber Credit,Economy,Round-Trip,2021-06-16,2021,June,Wednesday,16
+Business,West Rebecca,West Rebecca,17.72,Errand/Supplies,4.4,18.81,4,Uber Credit,Economy,Round-Trip,2021-07-27,2021,July,Tuesday,27
+Personal,New Brandy,New Corey,2.23,Meal/Entertain,4.8,11.1,3,Cash,Premium,One-Way,2020-05-09,2020,May,Saturday,9
+Business,Lake Sherry,Lake Sherry,4.19,Commute,4.6,24.53,1,Uber Credit,Premium,Round-Trip,2021-12-23,2021,December,Thursday,23
+Business,Port Ruben,Port Ruben,25.53,Commute,4.1,12.27,1,Uber Credit,SUV,Round-Trip,2021-09-24,2021,September,Friday,24
+Business,Holderview,Holderview,14.6,,4.3,33.6,2,Uber Credit,Premium,Round-Trip,2020-05-19,2020,May,Tuesday,19
+Personal,Cynthiaport,Brocktown,21.82,Meal/Entertain,4.1,1.79,3,Uber Credit,Economy,One-Way,2021-07-10,2021,July,Saturday,10
+Personal,Mitchellview,Mitchellview,15.28,Errand/Supplies,5.0,19.61,3,Card,Premium,Round-Trip,2020-12-09,2020,December,Wednesday,9
+Personal,Port Garyfort,Port Garyfort,15.3,Customer Visit,4.5,29.52,4,Card,Premium,Round-Trip,2024-07-17,2024,July,Wednesday,17
+Personal,Lake Benjamin,Lake Benjamin,24.38,Meeting,5.5,27.76,4,Card,Premium,Round-Trip,2025-03-14,2025,March,Friday,14
+Business,New Tony,Andersentown,9.84,Meal/Entertain,,65.4,4,Cash,Premium,One-Way,2022-12-24,2022,December,Saturday,24
+Personal,New Christopher,,15.96,Customer Visit,4.1,30.25,2,Cash,SUV,Unknown,2023-09-19,2023,September,Tuesday,19
+Personal,Ericmouth,Ericmouth,10.38,Errand/Supplies,3.7,9.94,2,Cash,Premium,Round-Trip,2025-03-24,2025,March,Monday,24
+Personal,Mooreside,Mooreside,10.66,Errand/Supplies,3.6,23.57,4,Card,Economy,Round-Trip,2021-02-25,2021,February,Thursday,25
+Business,Lindafort,Lindafort,11.91,Meeting,3.7,1.64,3,Cash,Premium,Round-Trip,2022-11-16,2022,November,Wednesday,16
+Personal,Frenchbury,Frenchbury,17.22,Meeting,4.6,23.79,2,Uber Credit,SUV,Round-Trip,2020-08-19,2020,August,Wednesday,19
+Personal,Jacquelinefurt,Jacquelinefurt,10.21,Meal/Entertain,4.8,12.5,3,Uber Credit,SUV,Round-Trip,2024-11-27,2024,November,Wednesday,27
+Personal,South Bethany,South Bethany,27.56,Customer Visit,3.7,38.73,3,Uber Credit,SUV,Round-Trip,2022-10-02,2022,October,Sunday,2
+Personal,South Jacqueline,South Jacqueline,6.05,Commute,4.9,16.76,1,Uber Credit,Economy,Round-Trip,2023-10-31,2023,October,Tuesday,31
+Personal,East Evelyn,East Evelyn,13.13,Customer Visit,4.3,23.25,4,Uber Credit,Economy,Round-Trip,2020-10-09,2020,October,Friday,9
+Personal,New Williamport,New Williamport,10.6,Errand/Supplies,4.6,15.47,1,Uber Credit,Premium,Round-Trip,2024-03-07,2024,March,Thursday,7
+Personal,Anthonychester,Anthonychester,29.47,,5.3,51.08,4,Uber Credit,Economy,Round-Trip,2022-04-07,2022,April,Thursday,7
+Business,Knappberg,Knappberg,16.97,Meal/Entertain,4.9,20.18,4,Cash,Economy,Round-Trip,2024-05-20,2024,May,Monday,20
+Business,Port Christopher,Port Christopher,25.32,Commute,4.4,52.49,3,Card,Premium,Round-Trip,2024-12-27,2024,December,Friday,27
+Personal,West Philip,,0.14,Meal/Entertain,4.1,37.21,4,Card,Economy,Unknown,2025-02-24,2025,February,Monday,24
+Business,Andrewsborough,Port Crystalchester,17.67,Errand/Supplies,3.4,32.23,3,Card,Premium,One-Way,2020-12-14,2020,December,Monday,14
+Personal,Toddfort,Toddfort,23.9,Errand/Supplies,4.1,30.53,3,Card,Premium,Round-Trip,2021-03-29,2021,March,Monday,29
+Business,Shannonfort,Shannonfort,15.82,Customer Visit,4.4,30.91,4,Uber Credit,Economy,Round-Trip,2022-11-06,2022,November,Sunday,6
+Personal,East John,East John,25.65,Commute,4.0,3.92,3,Uber Credit,Economy,Round-Trip,2024-12-26,2024,December,Thursday,26
+Personal,North Timothy,North Timothy,9.83,Customer Visit,4.4,20.82,3,Uber Credit,Premium,Round-Trip,2025-02-13,2025,February,Thursday,13
+Personal,Calhounfurt,Calhounfurt,29.09,Customer Visit,4.5,37.68,3,Uber Credit,Economy,Round-Trip,2020-02-15,2020,February,Saturday,15
+Personal,Catherineton,Catherineton,37.99,Meal/Entertain,4.4,24.27,2,Cash,Premium,Round-Trip,2024-10-23,2024,October,Wednesday,23
+Business,Port Michael,North Monica,11.37,Customer Visit,4.2,3.92,3,Card,Economy,One-Way,2021-04-30,2021,April,Friday,30
+Personal,Shaffermouth,Shaffermouth,10.54,Meeting,4.6,24.21,2,Cash,SUV,Round-Trip,2020-11-27,2020,November,Friday,27
+Business,Harrismouth,Port Ericashire,29.53,Meeting,4.7,50.56,2,Card,Economy,One-Way,2022-11-10,2022,November,Thursday,10
+Business,Andreaville,,30.8,Customer Visit,4.0,43.7,3,Cash,SUV,Unknown,2024-11-14,2024,November,Thursday,14
+Personal,East Theresashire,East Theresashire,9.77,Commute,5.2,24.07,3,Card,Economy,Round-Trip,2021-04-09,2021,April,Friday,9
+Business,New Vanessa,Danielleville,10.8,Customer Visit,4.5,39.27,2,Card,Premium,One-Way,2021-05-30,2021,May,Sunday,30
+Personal,Earlfort,Earlfort,12.18,Errand/Supplies,4.5,19.5,2,Cash,SUV,Round-Trip,2025-03-31,2025,March,Monday,31
+Business,Jasminebury,Hopkinsview,1.56,Errand/Supplies,4.9,0.56,3,Cash,SUV,One-Way,2024-01-01,2024,January,Monday,1
+Personal,Johnsonberg,Deborahville,5.81,Commute,4.6,11.13,3,Uber Credit,Premium,One-Way,2021-12-19,2021,December,Sunday,19
+Business,North Kristineburgh,North Kristineburgh,4.96,Meal/Entertain,,48.44,4,Cash,SUV,Round-Trip,2020-11-26,2020,November,Thursday,26
+Business,Port Kelsey,Anthonyland,7.32,Meeting,4.6,20.89,2,Card,Economy,One-Way,2023-02-21,2023,February,Tuesday,21
+Personal,Kevinfurt,Kevinfurt,14.65,,4.2,21.35,2,Card,Premium,Round-Trip,2020-04-18,2020,April,Saturday,18
+Business,Meganside,Katieborough,17.34,Meal/Entertain,4.7,20.5,4,Card,SUV,One-Way,2021-04-02,2021,April,Friday,2
+Business,Grayport,Rayville,30.51,Customer Visit,3.9,53.56,2,Card,Economy,One-Way,2020-02-23,2020,February,Sunday,23
+Personal,Port Christopherbury,Johnbury,5.02,Commute,4.6,49.39,1,Cash,SUV,One-Way,2022-09-26,2022,September,Monday,26
+Personal,Lake Jenniferside,Bairdchester,24.84,Customer Visit,,58.28,2,Uber Credit,Premium,One-Way,2024-10-01,2024,October,Tuesday,1
+Personal,Garciaborough,Garciaborough,12.86,Meal/Entertain,4.4,22.61,4,Card,Economy,Round-Trip,2020-03-27,2020,March,Friday,27
+Personal,New Adam,Travisfort,14.51,Commute,4.4,29.43,1,Card,Economy,One-Way,2024-04-21,2024,April,Sunday,21
+Business,Jacquelineland,Jacquelineland,21.75,Meeting,3.6,2.25,3,Card,Economy,Round-Trip,2020-12-10,2020,December,Thursday,10
+Personal,Fostershire,Fostershire,3.77,Meeting,4.2,47.15,4,Cash,Premium,Round-Trip,2024-09-14,2024,September,Saturday,14
+Personal,Maryport,North Roberttown,18.82,Customer Visit,4.5,7.48,4,Card,Economy,One-Way,2024-02-17,2024,February,Saturday,17
+Personal,South David,South David,16.66,Errand/Supplies,4.6,28.25,3,Uber Credit,Economy,Round-Trip,2020-09-19,2020,September,Saturday,19
+Personal,Davismouth,Davismouth,19.92,Meal/Entertain,4.0,8.54,4,Uber Credit,Premium,Round-Trip,2022-06-27,2022,June,Monday,27
+Business,Lake Caleb,Hickston,17.89,Meal/Entertain,5.1,16.17,2,Card,SUV,One-Way,2022-03-15,2022,March,Tuesday,15
+Business,Hickston,Hickston,39.55,Customer Visit,4.1,12.44,3,Card,SUV,Round-Trip,2020-03-09,2020,March,Monday,9
+Business,East Jacob,East Jacob,8.62,,5.0,15.88,4,Cash,SUV,Round-Trip,2023-09-27,2023,September,Wednesday,27
+Personal,East Juan,North Crystalside,9.69,Meeting,4.7,16.91,3,Card,SUV,One-Way,2021-11-08,2021,November,Monday,8
+Business,Samuelmouth,Samuelmouth,8.77,Customer Visit,,16.78,3,Cash,SUV,Round-Trip,2020-10-09,2020,October,Friday,9
+Business,Torresside,Heatherchester,9.45,,5.4,37.5,3,Uber Credit,Premium,One-Way,2022-05-10,2022,May,Tuesday,10
+Personal,East Kennethtown,East Kennethtown,8.63,Commute,3.9,8.43,1,Cash,SUV,Round-Trip,2020-11-27,2020,November,Friday,27
+Business,West Brett,West Brett,26.89,Commute,5.0,28.31,4,Cash,Premium,Round-Trip,2024-03-07,2024,March,Thursday,7
+Business,Kevinhaven,Kevinhaven,29.21,Errand/Supplies,5.0,43.27,1,Card,Premium,Round-Trip,2024-02-22,2024,February,Thursday,22
+Personal,Lake Courtneyside,Lake Courtneyside,9.29,,4.2,17.3,4,Uber Credit,Economy,Round-Trip,2022-05-14,2022,May,Saturday,14
+Business,Joyhaven,Joyhaven,6.68,Commute,5.2,14.23,2,Cash,Economy,Round-Trip,2023-08-30,2023,August,Wednesday,30
+Personal,North Evan,North Evan,19.71,Meal/Entertain,4.4,21.54,2,Uber Credit,Economy,Round-Trip,2022-06-05,2022,June,Sunday,5
+Business,Port Charles,Port Charles,9.48,Meeting,4.6,42.7,2,Cash,Premium,Round-Trip,2023-10-20,2023,October,Friday,20
+Business,North Johnchester,North Johnchester,21.33,Customer Visit,4.6,27.91,4,Uber Credit,SUV,Round-Trip,2022-01-09,2022,January,Sunday,9
+Personal,East Jacquelinechester,East Jacquelinechester,17.03,Commute,4.4,17.03,3,Cash,SUV,Round-Trip,2021-01-26,2021,January,Tuesday,26
+Business,North Danielport,North Danielport,-0.16,Customer Visit,4.9,32.26,3,Uber Credit,Premium,Round-Trip,2020-12-25,2020,December,Friday,25
+Personal,New Stanleyberg,New Stanleyberg,30.48,Commute,4.9,8.47,1,Cash,Economy,Round-Trip,2022-09-11,2022,September,Sunday,11
+Personal,Lake Marcusville,Suzannebury,32.96,Meal/Entertain,3.6,35.22,1,Uber Credit,Economy,One-Way,2023-06-12,2023,June,Monday,12
+Personal,Edwardmouth,Edwardmouth,8.87,Commute,5.2,31.13,2,Cash,Premium,Round-Trip,2021-05-10,2021,May,Monday,10
+Personal,Tracytown,Hillberg,11.12,Commute,3.7,203.8,1,Card,Economy,One-Way,2021-05-01,2021,May,Saturday,1
+Business,Carpentermouth,Carpentermouth,17.86,Meeting,5.0,12.42,4,Uber Credit,Premium,Round-Trip,2023-07-06,2023,July,Thursday,6
+Business,Davidberg,Davidberg,18.34,Errand/Supplies,5.1,11.7,4,Card,Economy,Round-Trip,2022-11-11,2022,November,Friday,11
+Personal,Willisview,Willisview,21.59,Meeting,4.0,33.02,1,Card,Premium,Round-Trip,2025-01-25,2025,January,Saturday,25
+Business,Mitchellburgh,Mooreside,35.1,Customer Visit,4.3,43.43,1,Cash,SUV,One-Way,2020-01-20,2020,January,Monday,20
+Business,New Austinmouth,New Austinmouth,132.3,Meal/Entertain,3.9,15.44,1,Card,SUV,Round-Trip,2024-08-14,2024,August,Wednesday,14
+Business,Leonberg,Leonberg,70.19999999999999,Meal/Entertain,4.4,31.88,1,Uber Credit,SUV,Round-Trip,2020-02-24,2020,February,Monday,24
+Business,Saratown,Saratown,1.21,Commute,4.3,6.31,2,Cash,Premium,Round-Trip,2024-02-25,2024,February,Sunday,25
+Personal,East Jonathanberg,East Jonathanberg,7.69,Meal/Entertain,4.9,16.23,2,Cash,Economy,Round-Trip,2020-09-13,2020,September,Sunday,13
+Business,Port Cindy,Port Cindy,14.67,,5.2,24.53,1,Uber Credit,Economy,Round-Trip,2020-06-06,2020,June,Saturday,6
+Personal,Lake Kimberlyview,Lake Kimberlyview,32.95,Errand/Supplies,5.2,11.35,4,Uber Credit,Economy,Round-Trip,2022-07-16,2022,July,Saturday,16
+Business,New Kellychester,New Kellychester,9.82,Commute,,10.95,2,Card,Economy,Round-Trip,2023-06-10,2023,June,Saturday,10
+Business,West Nicholasfort,Deannaview,17.24,Commute,4.4,14.98,4,Card,Economy,One-Way,2021-09-07,2021,September,Tuesday,7
+Personal,New Roy,New Roy,14.84,Customer Visit,3.7,29.38,3,Cash,SUV,Round-Trip,2020-10-22,2020,October,Thursday,22
+Personal,Johnsonberg,,26.88,Commute,4.1,22.19,4,Uber Credit,Premium,Unknown,2024-02-02,2024,February,Friday,2
+Personal,East Christopher,East Christopher,40.27,Meeting,5.0,8.57,1,Uber Credit,Economy,Round-Trip,2022-11-03,2022,November,Thursday,3
+Personal,Theresaborough,Theresaborough,96.9,Meeting,5.3,6.81,3,Cash,Premium,Round-Trip,2022-11-02,2022,November,Wednesday,2
+Business,Waltersstad,Waltersstad,10.11,Meeting,3.9,15.9,2,Card,Economy,Round-Trip,2023-10-13,2023,October,Friday,13
+Personal,Lake Sherry,Lake Sherry,25.44,Errand/Supplies,4.2,31.87,2,Uber Credit,Premium,Round-Trip,2024-07-07,2024,July,Sunday,7
+Personal,Douglasberg,Douglasberg,21.82,Meal/Entertain,4.5,16.21,3,Card,Premium,Round-Trip,2022-06-28,2022,June,Tuesday,28
+Business,Seanmouth,Seanmouth,33.47,Customer Visit,4.6,17.5,4,Card,Premium,Round-Trip,2023-12-09,2023,December,Saturday,9
+Business,Lake Peter,Lake Peter,20.84,Commute,4.1,17.11,2,Cash,Premium,Round-Trip,2021-04-15,2021,April,Thursday,15
+Personal,Jacobview,,11.41,Customer Visit,4.7,45.83,1,Uber Credit,SUV,Unknown,2022-09-02,2022,September,Friday,2
+Personal,Montoyatown,Teresaville,20.91,Errand/Supplies,4.3,19.22,3,Cash,Premium,One-Way,2021-05-02,2021,May,Sunday,2
+Personal,West Kevinside,Greenburgh,26.09,Commute,4.5,30.74,1,Cash,Economy,One-Way,2021-03-28,2021,March,Sunday,28
+Personal,South Cynthiaside,South Cynthiaside,23.2,Commute,4.8,27.12,3,Card,SUV,Round-Trip,2023-05-20,2023,May,Saturday,20
+Personal,Kathyburgh,Kathyburgh,20.07,Errand/Supplies,4.5,6.96,2,Uber Credit,SUV,Round-Trip,2020-12-04,2020,December,Friday,4
+Personal,Stephenville,Stephenville,25.67,Meal/Entertain,4.3,36.52,4,Cash,Premium,Round-Trip,2022-01-01,2022,January,Saturday,1
+Personal,West John,West John,26.69,Commute,4.4,28.23,3,Uber Credit,Economy,Round-Trip,2023-05-29,2023,May,Monday,29
+Business,Carrolltown,Carrolltown,28.82,Meal/Entertain,4.5,32.62,3,Cash,Premium,Round-Trip,2023-04-05,2023,April,Wednesday,5
+Personal,Rebeccabury,Rebeccabury,21.49,Errand/Supplies,4.3,83.89,1,Uber Credit,Premium,Round-Trip,2023-10-05,2023,October,Thursday,5
+Personal,East Clifford,Timothymouth,13.33,Customer Visit,4.4,6.26,2,Cash,Premium,One-Way,2023-08-02,2023,August,Wednesday,2
+Business,North Williamside,Vaughnton,16.47,,5.3,50.87,1,Card,Economy,One-Way,2021-02-22,2021,February,Monday,22
+Business,Travisfort,Travisfort,27.07,Meal/Entertain,4.8,20.69,2,Card,Premium,Round-Trip,2022-02-25,2022,February,Friday,25
+Personal,Kimberlyville,Kimberlyville,68.3,,4.4,29.31,1,Cash,Economy,Round-Trip,2023-01-30,2023,January,Monday,30
+Personal,Lake Melissatown,Lake Melissatown,18.69,,4.8,24.32,3,Card,Premium,Round-Trip,2024-12-19,2024,December,Thursday,19
+Personal,South Heatherland,Swansonmouth,11.07,Commute,4.3,18.64,1,Cash,Premium,One-Way,2023-05-19,2023,May,Friday,19
+Personal,East Clifford,East Clifford,15.29,Commute,5.1,16.45,4,Card,Premium,Round-Trip,2021-06-30,2021,June,Wednesday,30
+Business,Jamesshire,Jamesshire,27.78,Commute,4.7,29.94,2,Uber Credit,Premium,Round-Trip,2023-02-10,2023,February,Friday,10
+Personal,Kathrynport,East Amanda,16.91,Customer Visit,4.4,2.24,2,Card,Economy,One-Way,2021-07-11,2021,July,Sunday,11
+Personal,South Josephburgh,South Josephburgh,15.46,Commute,,36.26,3,Uber Credit,Premium,Round-Trip,2022-08-02,2022,August,Tuesday,2
+Business,North Bethburgh,North Marthaberg,1.4,Meal/Entertain,3.7,18.76,2,Uber Credit,SUV,One-Way,2023-09-21,2023,September,Thursday,21
+Business,Brownfort,,22.46,Customer Visit,3.9,8.05,4,Card,Economy,Unknown,2021-06-28,2021,June,Monday,28
+Personal,New Dennis,New Dennis,21.45,Meeting,3.9,18.25,1,Uber Credit,Economy,Round-Trip,2023-08-03,2023,August,Thursday,3
+Personal,Morrisonhaven,Morrisonhaven,36.63,Meal/Entertain,4.6,43.86,3,Card,SUV,Round-Trip,2024-10-19,2024,October,Saturday,19
+Business,Danashire,Port Brittneyside,11.92,Meal/Entertain,5.4,16.97,4,Uber Credit,SUV,One-Way,2022-03-07,2022,March,Monday,7
+Personal,Kristytown,Kristytown,17.19,Meeting,,30.38,2,Card,Economy,Round-Trip,2022-03-10,2022,March,Thursday,10
+Business,Petersonside,Petersonside,17.49,Customer Visit,4.8,14.04,2,Uber Credit,Economy,Round-Trip,2021-08-01,2021,August,Sunday,1
+Business,West William,West William,30.77,Commute,4.8,36.37,4,Cash,SUV,Round-Trip,2022-08-23,2022,August,Tuesday,23
+Personal,Port Amyfort,Port Amyfort,14.05,Meal/Entertain,3.6,35.28,1,Card,Premium,Round-Trip,2020-05-02,2020,May,Saturday,2
+Business,West Kimberly,West Kimberly,17.79,Meeting,4.2,52.73,1,Card,SUV,Round-Trip,2024-11-16,2024,November,Saturday,16
+Business,Casehaven,Princeshire,21.08,Commute,4.1,22.37,3,Card,Premium,One-Way,2024-01-03,2024,January,Wednesday,3
+Business,Rayland,Rayland,16.87,Customer Visit,4.2,35.03,2,Uber Credit,SUV,Round-Trip,2022-11-22,2022,November,Tuesday,22
+Personal,Lake Jorgeview,Lake Jorgeview,10.54,Meal/Entertain,,26.47,4,Cash,Economy,Round-Trip,2022-12-06,2022,December,Tuesday,6
+Personal,Jamesland,Jamesland,16.94,Commute,4.3,44.44,1,Uber Credit,SUV,Round-Trip,2023-04-30,2023,April,Sunday,30
+Business,Garciaburgh,Roberthaven,25.74,Commute,3.5,14.22,3,Uber Credit,Economy,One-Way,2022-08-23,2022,August,Tuesday,23
+Personal,Lake Jenniferport,Lake Jenniferport,4.73,Errand/Supplies,4.9,36.18,2,Card,Premium,Round-Trip,2021-05-25,2021,May,Tuesday,25
+Business,New Mary,West Rebeccaland,16.33,Meeting,4.0,22.08,2,Uber Credit,SUV,One-Way,2020-02-09,2020,February,Sunday,9
+Business,Racheltown,South Carlos,8.0,Commute,4.6,24.04,3,Uber Credit,Premium,One-Way,2021-03-19,2021,March,Friday,19
+Personal,East Shannon,Jameshaven,26.95,Customer Visit,5.5,26.38,3,Cash,SUV,One-Way,2023-04-25,2023,April,Tuesday,25
+Personal,Port Melanie,Port Melanie,-0.23,Errand/Supplies,4.0,28.78,1,Uber Credit,SUV,Round-Trip,2023-09-25,2023,September,Monday,25
+Personal,West Briannabury,West Briannabury,9.41,Commute,3.2,23.26,4,Cash,Premium,Round-Trip,2023-02-07,2023,February,Tuesday,7
+Business,Tamaraville,Tamaraville,18.77,Commute,4.4,28.22,2,Card,SUV,Round-Trip,2021-01-27,2021,January,Wednesday,27
+Business,Lake Ashley,Lake Ashley,30.66,Customer Visit,5.1,48.67,4,Cash,Economy,Round-Trip,2020-05-14,2020,May,Thursday,14
+Business,North Ashleyborough,Averyberg,14.34,,5.5,39.78,2,Cash,Premium,One-Way,2022-11-19,2022,November,Saturday,19
+Personal,Frenchbury,Frenchbury,9.45,Errand/Supplies,3.9,38.04,2,Card,Premium,Round-Trip,2023-01-16,2023,January,Monday,16
+Personal,Colinbury,Colinbury,33.81,Meeting,4.7,18.17,4,Cash,Economy,Round-Trip,2024-03-02,2024,March,Saturday,2
+Business,Hannahmouth,Hannahmouth,0.52,Commute,4.3,11.66,3,Cash,Premium,Round-Trip,2023-05-02,2023,May,Tuesday,2
+Personal,Lake Elizabeth,Lake Elizabeth,-6.99,,4.4,39.33,1,Card,SUV,Round-Trip,2022-09-26,2022,September,Monday,26
+Personal,Lake Courtneyside,Lake Courtneyside,19.4,Errand/Supplies,5.8,38.14,2,Uber Credit,Economy,Round-Trip,2022-11-21,2022,November,Monday,21
+Personal,New Danny,New Danny,9.98,Meeting,3.7,47.09,3,Cash,SUV,Round-Trip,2022-01-06,2022,January,Thursday,6
+Personal,Samuelmouth,Charlesbury,4.79,Customer Visit,4.6,15.94,2,Uber Credit,SUV,One-Way,2020-03-13,2020,March,Friday,13
+Business,Lake Robert,,22.08,Meal/Entertain,4.7,21.56,1,Card,SUV,Unknown,2021-06-24,2021,June,Thursday,24
+Personal,Lake Brianview,Lake Brianview,17.44,Customer Visit,5.0,4.1,2,Card,SUV,Round-Trip,2022-08-11,2022,August,Thursday,11
+Business,Carpenterland,Carpenterland,9.36,Errand/Supplies,,19.11,1,Uber Credit,SUV,Round-Trip,2024-09-28,2024,September,Saturday,28
+Business,Kimberlyland,,2.2,Customer Visit,4.7,39.95,1,Cash,SUV,Unknown,2021-05-27,2021,May,Thursday,27
+Business,Port Cathy,Port Cathy,23.72,Errand/Supplies,4.3,18.0,2,Uber Credit,Economy,Round-Trip,2021-01-20,2021,January,Wednesday,20
+Personal,South Katherine,South Katherine,21.5,Customer Visit,4.6,346.1,2,Card,Economy,Round-Trip,2025-03-01,2025,March,Saturday,1
+Personal,Jefferyton,Jonesfurt,14.01,Commute,4.3,22.14,1,Card,Premium,One-Way,2024-12-15,2024,December,Sunday,15
+Business,Lowemouth,Lowemouth,33.47,Commute,4.8,29.86,3,Cash,Economy,Round-Trip,2021-03-19,2021,March,Friday,19
+Personal,Oneillmouth,Jaclynfurt,4.3,Customer Visit,4.3,7.78,4,Card,Economy,One-Way,2023-11-20,2023,November,Monday,20
+Business,Josephtown,South Luis,-0.26,Meeting,4.7,26.28,1,Uber Credit,Economy,One-Way,2021-12-08,2021,December,Wednesday,8
+Personal,Lisaside,East Douglaston,8.08,Errand/Supplies,4.5,19.87,2,Uber Credit,Economy,One-Way,2023-11-12,2023,November,Sunday,12
+Business,New Brent,South John,14.54,Commute,5.1,22.2,2,Uber Credit,Economy,One-Way,2022-07-03,2022,July,Sunday,3
+Personal,North Matthew,North Matthew,17.43,Errand/Supplies,4.5,0.54,3,Uber Credit,Economy,Round-Trip,2022-08-28,2022,August,Sunday,28
+Personal,West Kimberlyberg,West Kimberlyberg,12.59,Commute,3.6,43.09,4,Cash,Premium,Round-Trip,2024-03-27,2024,March,Wednesday,27
+Personal,North Cheyenneton,Hintonberg,18.52,Meal/Entertain,5.1,36.66,1,Uber Credit,Economy,One-Way,2022-01-15,2022,January,Saturday,15
+Personal,Barbermouth,Barbermouth,2.48,Customer Visit,4.0,32.0,1,Cash,SUV,Round-Trip,2021-05-29,2021,May,Saturday,29
+Personal,Sarahview,Marshallland,29.44,Commute,4.2,47.82,4,Card,Premium,One-Way,2022-12-31,2022,December,Saturday,31
+Business,Garciaborough,Garciaborough,14.18,Customer Visit,4.2,10.77,1,Card,Economy,Round-Trip,2022-03-12,2022,March,Saturday,12
+Business,Marshallland,Marshallland,26.17,Meal/Entertain,5.2,51.21,4,Cash,SUV,Round-Trip,2024-07-15,2024,July,Monday,15
+Personal,East Melissatown,East Melissatown,18.43,Errand/Supplies,,38.98,2,Cash,Economy,Round-Trip,2024-05-21,2024,May,Tuesday,21
+Business,Faulknermouth,Faulknermouth,19.57,Customer Visit,6.1,21.45,4,Card,SUV,Round-Trip,2020-01-07,2020,January,Tuesday,7
+Personal,Lake Randallmouth,Lake Randallmouth,20.7,Commute,5.0,42.03,1,Card,Premium,Round-Trip,2020-09-10,2020,September,Thursday,10
+Business,Maloneshire,Maloneshire,19.48,Meal/Entertain,4.6,8.41,4,Uber Credit,Premium,Round-Trip,2021-06-19,2021,June,Saturday,19
+Business,Carmenberg,Carmenberg,21.43,Commute,4.5,12.63,3,Cash,SUV,Round-Trip,2024-09-14,2024,September,Saturday,14
+Personal,Port Jennifershire,Port Jennifershire,28.29,Meal/Entertain,4.6,15.87,2,Card,Economy,Round-Trip,2024-11-08,2024,November,Friday,8
+Personal,New Nicole,Owenburgh,16.97,Meal/Entertain,,17.07,2,Cash,Economy,One-Way,2022-02-21,2022,February,Monday,21
+Personal,New Tammychester,New Tammychester,22.09,Commute,4.8,9.15,4,Card,Premium,Round-Trip,2022-04-16,2022,April,Saturday,16
+Business,Suzannebury,Suzannebury,14.1,,4.8,43.35,1,Cash,SUV,Round-Trip,2023-10-23,2023,October,Monday,23
+Business,Kingville,Kingville,29.4,Errand/Supplies,4.5,21.12,3,Cash,Premium,Round-Trip,2021-12-23,2021,December,Thursday,23
+Business,Maloneshire,Maloneshire,8.24,Errand/Supplies,4.4,30.29,2,Card,SUV,Round-Trip,2021-02-08,2021,February,Monday,8
+Business,Codyburgh,Codyburgh,33.01,Meal/Entertain,4.4,16.44,2,Uber Credit,Premium,Round-Trip,2024-12-20,2024,December,Friday,20
+Personal,Marshallland,North Lori,14.6,Commute,4.4,2.31,1,Uber Credit,Premium,One-Way,2024-07-27,2024,July,Saturday,27
+Personal,Lake Emma,Lake Emma,0.69,Meal/Entertain,5.1,29.05,1,Uber Credit,SUV,Round-Trip,2022-01-19,2022,January,Wednesday,19
+Business,North Davidton,North Davidton,16.28,Errand/Supplies,4.8,3.68,3,Card,Premium,Round-Trip,2021-05-22,2021,May,Saturday,22
+Business,Matthewstad,Port Garyfort,8.19,Meal/Entertain,3.0,23.97,4,Card,Economy,One-Way,2021-03-11,2021,March,Thursday,11
+Business,Mirandaland,Mirandaland,23.41,Meal/Entertain,4.8,4.48,1,Uber Credit,SUV,Round-Trip,2020-07-12,2020,July,Sunday,12
+Business,Ruizmouth,Ruizmouth,8.47,Errand/Supplies,4.6,54.81,4,Card,SUV,Round-Trip,2024-09-15,2024,September,Sunday,15
+Personal,North Kathy,North Kathy,10.54,Customer Visit,4.5,38.67,3,Card,SUV,Round-Trip,2023-10-01,2023,October,Sunday,1
+Personal,Ryanmouth,Ryanmouth,-3.9,Meal/Entertain,4.3,26.59,4,Uber Credit,SUV,Round-Trip,2022-05-12,2022,May,Thursday,12
+Personal,Zacharybury,Zacharybury,10.48,Customer Visit,5.1,43.96,2,Card,Premium,Round-Trip,2022-09-13,2022,September,Tuesday,13
+Personal,Jamestown,Jamestown,-9.24,Meal/Entertain,5.0,12.31,4,Card,Economy,Round-Trip,2021-12-25,2021,December,Saturday,25
+Business,Port Rayview,Port Rayview,-0.84,Commute,4.1,33.15,3,Cash,Premium,Round-Trip,2020-04-06,2020,April,Monday,6
+Personal,Hillmouth,Hillmouth,22.6,Meal/Entertain,4.7,28.0,3,Cash,Economy,Round-Trip,2023-12-11,2023,December,Monday,11
+Business,Warnershire,Warnershire,22.86,Meal/Entertain,4.0,28.96,3,Uber Credit,Economy,Round-Trip,2022-11-09,2022,November,Wednesday,9
+Personal,South Thomas,South Thomas,19.25,Meeting,3.8,44.09,4,Cash,SUV,Round-Trip,2021-06-22,2021,June,Tuesday,22
+Personal,East Jacob,East Jacob,5.33,Commute,4.2,35.99,2,Cash,SUV,Round-Trip,2023-06-09,2023,June,Friday,9
+Personal,Mackenzieside,Fitzgeraldborough,145.2,Commute,4.9,293.29999999999995,1,Card,SUV,One-Way,2021-11-03,2021,November,Wednesday,3
+Business,Port James,Port James,14.96,Customer Visit,5.0,0.18,2,Cash,Economy,Round-Trip,2023-07-08,2023,July,Saturday,8
+Personal,Jenniferberg,Jenniferberg,3.42,Customer Visit,4.8,10.6,4,Card,Economy,Round-Trip,2021-02-21,2021,February,Sunday,21
+Business,New Wanda,New Wanda,30.03,Meal/Entertain,4.9,23.16,4,Cash,SUV,Round-Trip,2021-10-05,2021,October,Tuesday,5
+Personal,Davisburgh,Davisburgh,23.77,Errand/Supplies,4.8,26.4,1,Uber Credit,Economy,Round-Trip,2021-06-10,2021,June,Thursday,10
+Personal,West Terri,West Terri,12.79,Meal/Entertain,4.2,8.05,4,Card,Premium,Round-Trip,2022-12-08,2022,December,Thursday,8
+Business,Port Jonchester,Port Jonchester,15.27,Meeting,4.7,61.18,3,Cash,SUV,Round-Trip,2024-03-05,2024,March,Tuesday,5
+Personal,West Maryville,,17.08,Meal/Entertain,4.9,47.75,3,Card,Premium,Unknown,2024-06-01,2024,June,Saturday,1
+Business,East Paul,East Paul,-5.42,Meeting,4.9,34.03,3,Uber Credit,Premium,Round-Trip,2020-11-24,2020,November,Tuesday,24
+Personal,Lowefort,Mariaborough,12.53,Meal/Entertain,5.1,26.08,3,Uber Credit,Premium,One-Way,2025-04-03,2025,April,Thursday,3
+Personal,East Robertland,East Robertland,8.18,Customer Visit,4.9,21.82,3,Card,Premium,Round-Trip,2023-07-19,2023,July,Wednesday,19
+Business,Smithbury,Smithbury,4.98,Meal/Entertain,4.7,10.72,4,Uber Credit,SUV,Round-Trip,2021-09-14,2021,September,Tuesday,14
+Personal,Reginabury,Reginabury,12.19,Customer Visit,5.0,26.16,1,Uber Credit,Premium,Round-Trip,2023-11-25,2023,November,Saturday,25
+Personal,East Paul,East Paul,32.98,Errand/Supplies,4.5,28.87,1,Cash,SUV,Round-Trip,2022-02-27,2022,February,Sunday,27
+Business,Robinsonbury,Wilsonfort,21.41,,4.1,6.37,3,Uber Credit,SUV,One-Way,2024-08-17,2024,August,Saturday,17
+Business,West Jack,North Kristineburgh,9.29,Commute,4.4,30.01,4,Cash,Premium,One-Way,2020-06-27,2020,June,Saturday,27
+Personal,Port Karenfort,Harrisport,20.73,Meal/Entertain,4.1,22.67,2,Card,Economy,One-Way,2024-06-17,2024,June,Monday,17
+Business,East Johnchester,South Jeffreyborough,12.01,Customer Visit,4.3,43.06,2,Uber Credit,Economy,One-Way,2023-11-03,2023,November,Friday,3
+Personal,West Cathyfort,West Cathyfort,21.82,Meal/Entertain,4.5,16.21,3,Card,Premium,Round-Trip,2022-06-28,2022,June,Tuesday,28
+Business,South Jacqueline,South Jacqueline,19.3,Meal/Entertain,3.6,33.93,2,Cash,SUV,Round-Trip,2020-06-19,2020,June,Friday,19
+Personal,Graychester,Graychester,2.48,Customer Visit,4.0,32.0,1,Cash,SUV,Round-Trip,2021-05-29,2021,May,Saturday,29
+Personal,New April,New April,11.12,Commute,3.7,203.8,1,Card,Economy,Round-Trip,2021-05-01,2021,May,Saturday,1
+Business,North Mary,Lake Brandy,22.75,Meeting,4.5,27.98,2,Card,Premium,One-Way,2021-11-22,2021,November,Monday,22
+Personal,New Markbury,New Markbury,40.6,Meal/Entertain,4.5,38.43,1,Uber Credit,SUV,Round-Trip,2020-05-20,2020,May,Wednesday,20
+Personal,South Michaeltown,South Michaeltown,21.8,Meeting,5.6,40.11,3,Card,SUV,Round-Trip,2020-04-13,2020,April,Monday,13
+Personal,East Beverlyport,Lake Olivia,15.29,Commute,5.1,16.45,4,Card,Premium,One-Way,2021-06-30,2021,June,Wednesday,30
+Business,Taylorhaven,East Allen,7.73,Customer Visit,4.2,21.16,1,Card,SUV,One-Way,2023-10-13,2023,October,Friday,13
